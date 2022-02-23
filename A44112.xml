@@ -1,0 +1,2251 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some remains of John Hogg in two parts, the first being an answer to a letter writ to him by Tho. Markham, the second, a continuation and more full discourse of the matters treated of in the said answer &amp;c / published by a friend of the author's since his death.</title>
+            <author>Hogg, John, 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 105 KB of XML-encoded text transcribed from 32 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44112</idno>
+            <idno type="STC">Wing H2368B</idno>
+            <idno type="STC">ESTC R31114</idno>
+            <idno type="EEBO-CITATION">11779860</idno>
+            <idno type="OCLC">ocm 11779860</idno>
+            <idno type="VID">48993</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A44112)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48993)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1485:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some remains of John Hogg in two parts, the first being an answer to a letter writ to him by Tho. Markham, the second, a continuation and more full discourse of the matters treated of in the said answer &amp;c / published by a friend of the author's since his death.</title>
+                  <author>Hogg, John, 17th cent.</author>
+               </titleStmt>
+               <extent>[7], 57 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London printed :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Published by a friend of the author's since his death" from t.p.</note>
+                  <note>Epistle to the reader signed : T.D.</note>
+                  <note>In verse.</note>
+                  <note>Part II begins on p. 16.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:48993:1"/>
+            <p>SOME REMAINS OF <hi>JOHN HOGG.</hi>
+            </p>
+            <p>In Two Parts.</p>
+            <p>The Firſt being An ANSWER to a LETTER writ to him by <hi>Tho. Markham.</hi>
+            </p>
+            <p>The Second, A CONTINUATION, and more full Diſcourſe of the Matters treated of in the ſaid <hi>Anſwer, &amp;c.</hi>
+            </p>
+            <p>Publiſhed by a Friend of the Author's ſince his Death.</p>
+            <p>
+               <hi>LONDON:</hi> Printed in the Year 1698.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:48993:2" rendition="simple:additions"/>
+            <pb facs="tcp:48993:2"/>
+            <head>THE EPISTLE TO THE READER.</head>
+            <p>BElieving theſe enſuing Lines may be of uſe and ſervice to thoſe that will read and impartially weigh and con<g ref="char:EOLhyphen"/>ſider them, I thought fit to commit them to the Preſs, for the Benefit of ſuch into whoſe Hands they may come. The Au<g ref="char:EOLhyphen"/>thor was my intimate Acquaintance many Years; and as Oppor<g ref="char:EOLhyphen"/>tunity offer'd, I have been often edify'd by his private as well as publick Diſcourſes, to the opening of my Underſtanding in Things of a Religious Nature: He was a Man of great Thinking, acute in moſt things, of a ſound and diſcerning Judgment, that any unprejudic'd Perſon, not bigotted to Par<g ref="char:EOLhyphen"/>ties, or ſeeming Religious Societies, muſt have receiv'd Be<g ref="char:EOLhyphen"/>nefit by converſing with him. He was a Religious-minded Man, and good Chriſtian, yet without Affectation, or making a Show of his being ſo. I doubt not but he is entred into that Reſt which he travell'd for, and had a large Taſte of, whilſt in that Body, with which my ſelf and others have ſo often converſed. The following Papers will give the ſerious Reader a clearer Evidence of the ſoundneſs of his Judgment than I can pretend to; as alſo the Reaſons why he writ in Verſe, which was occaſion'd by one of his <hi>quondam</hi> Friends
+<pb facs="tcp:48993:3"/>writing ſo to him, by way of Admonition as was pretended: I many times lament his being taken away from us, becauſe of the ſweet Enjoyment and Chriſtian Fellowſhip that I, with ſome others, had with him. He was univerſal in his Love and good Wiſhes to all Mankind; and has often ſaid, He did not believe that any Religious Society of People was the only true Church of Chriſt, excluſive of the reſt; but that Sincerity of Heart toward God, and good Will to Men, without reſpect to Parties, was that which only could intitle any to be Members of that Church, of which he believ'd Chriſt Jeſus to be Head; and further added, that the higheſt Pretenders to Religion in all Chriſtian Reformations have not yet in a General way (tho' ſome Particulars might) come to know the likeneſs of the Truth caſt out, but rather in their Differences contend for it, than for the Truth it ſelf, betwixt which there is as much difference as betwixt a Subſtance and its Shadow; and that he believed was the Ground of thoſe Janglings and Enmity amongſt them upon a Religious Account, and which he found true amongſt his Friends, the People call'd <hi>Quakers,</hi> with whom he was in outward Fellowſhip: Becauſe he could not believe or va<g ref="char:EOLhyphen"/>lue (as others did) ſome outward Rules, and Orders ſet up amongſt them, to be any more than the Outward Court, or like the Forms of other Profeſſions; For this he was ſlighted by ſome of thoſe that eſteem themſelves Elders and Leaders amongſt that People. Above Twenty Years ago, in ſome publick Meetings in <hi>London,</hi> he had a more than or<g ref="char:EOLhyphen"/>dinary impulſe upon his Spirit, amongſt other things warn<g ref="char:EOLhyphen"/>ing them to beware of Formality, leaſt God ſhou'd cauſe it to be proclaim'd in their Ears, that altho' they increaſed in Number as the Sand of the Sea-ſhore, yet a Remnant ſhould but be ſaved: And ſuch a Remnant as truly travell'd after the Truth, and for the true Reſt, he had Unity with to his dying Day; which was the 24th. of the Month <hi>Decem<g ref="char:EOLhyphen"/>ber,
+<pb facs="tcp:48993:3"/>1696.</hi> A little before his Departure, he ſaid to ſome that were with him, (being of ſound and perfect Memory to his laſt) that what he had writ and ſaid about the dif<g ref="char:EOLhyphen"/>ference betwixt him and Friends, he was ſatisfy'd in, and could not have done otherwiſe, to have had Peace with that Divine Being, into whoſe Reſt he was going to enter; and that he had no Regret or Trouble on his Mind for what he had done on that Account. And for his giving a publick Caution in Meetings, as is before-mention'd, and at other times ſhewing his Diſlike of ſome Practices amongſt Friends, it occaſion'd ſome high-opinionated Elders, and a Party a<g ref="char:EOLhyphen"/>mongſt them, from that time to his dying Day, to ſpread Snares and ill Reports in his Way, and carry'd their En<g ref="char:EOLhyphen"/>mity ſo high againſt him, that they endeavour'd to take the Meeting from his Houſe, under the pretence of his not being in Unity with Friends; which to my Knowledge he ever was with ſuch as were ſincere; but thoſe that ſeemed ſo, and were not, how great ſoever, he never valu'd; and it was they that he believ'd were the Snarlers at him; as ap<g ref="char:EOLhyphen"/>pear'd by his Neighbourhood's belief of his Sincerity, Hone<g ref="char:EOLhyphen"/>ſty, and Chriſtian Deportment; of which the Meeting he belong'd to were ſo well ſatisfy'd, that the Stratagem uſed on that account was rejected, and the Meeting continu'd at his Houſe in Courſe, to his Death.</p>
+            <p>He lamented much the loſs of that Life and Power that attended their Meetings in former Days: But for himſelf, I with ſome others muſt needs ſay, he was not awanting in his Miniſtry, which had always ſomething lively, new and freſh in it, and was very edifying to ſuch as without Prejudice heard him: Therefore I could do not leſs than contribute this Epiſtle in teſtimony of my Love and Reſpect to his Memory; who, tho' he be taken away from us, and tho' dead, yet li<g ref="char:EOLhyphen"/>veth as an Epiſtle upon my Heart, and ſpeaketh by theſe fol<g ref="char:EOLhyphen"/>lowing Lines to them that are alive, and will ſeriouſly peruſe
+<pb facs="tcp:48993:4"/>them. Altho' his Attainments were great, yet ſuch Chriſtians as were purely ſimple and innocent in all Appearances, hum<g ref="char:EOLhyphen"/>bly ſeeking after higher Diſcoveries of God in Chriſt Jeſus, were dearly lov'd and own'd by him. As to Worldly Affairs, tho' he had much Buſineſs, and ſome Trouble in it, yet his Mind was not hurt by it, for it rather ſought him than he it; and tho' he had many Loſſes and Diſappointments, yet I never ſaw him repine at any; but bore all things with ſuch an Equality of Temper as I have not often ſeen. And as I am informed by ſome that were with him when he dy'd, he bore the laſt and great Conflict of Death with the like Patience, reſigning his Soul unto him that gave it. Now Rea<g ref="char:EOLhyphen"/>der, I refer thee to the following Verſes, which I hope may be of uſe and benefit to the honeſt-minded; and ſo remains thine and all Mens Friend and Well-wiſher,</p>
+            <closer>
+               <signed>T.D.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="part">
+            <pb n="1" facs="tcp:48993:4"/>
+            <head>SOME REMAINS OF <hi>JOHN HOGG.</hi>
+            </head>
+            <head>PART I.</head>
+            <opener>
+               <salute>
+                  <hi>My Friend</hi> T. Markam,</salute>
+            </opener>
+            <lg>
+               <l>THINE without Date is ſafely com'd to Hand,</l>
+               <l>At which I was ſurpris'd, and at a Stand,</l>
+               <l>To ſee thy Mind deliver'd there in Rhime,</l>
+               <l>Not knowing thou waſt Poet till this time.</l>
+               <l>I alſo heard before I did it ſee,</l>
+               <l>That it an Anſwer unto mine ſhould be;</l>
+               <l>But when peruſed, I did nothing find</l>
+               <l>That it was ſo intended or deſign'd:</l>
+               <l>But that's not much, the matter is not great,</l>
+               <l>If thou ſhouldſt the like Diſappointment meet,</l>
+               <l>Provided ſtill thou waſt but of my Mind,</l>
+               <l>Truth to receive where-ever we it find.</l>
+               <l>Whether it ſhall expreſs'd or written be</l>
+               <l>In Verſe or Proſe, it is the ſame to me;</l>
+               <pb n="2" facs="tcp:48993:5"/>
+               <l> Altho' 'tis true, there's many do decry</l>
+               <l>Writing in Verſe, and think it Levity.</l>
+               <l>Yet well I know God may the Mind prepare</l>
+               <l>Important Truths in Verſes to declare;</l>
+               <l>Nay, well I know, before true Verſe be made,</l>
+               <l>All roughneſs of the Mind muſt be allay'd.</l>
+               <l>A ſmooth and equal Temper muſt be found</l>
+               <l>'Ere Words can have right Number and true Sound.</l>
+               <l>The Temper is as Forms, which may be true,</l>
+               <l>And yet in that Men Evil may purſue,</l>
+               <l>And Words apply unto another End</l>
+               <l>Than Truth directs to ſpeak, or did intend.</l>
+               <l>Hence it appears Verſe may be good or ill,</l>
+               <l>According to the Subject, and Man's Will.</l>
+               <l>On this Account I ſhall ſurvey thy Lines,</l>
+               <l>And Matter thou deliver'd has in Rhymes.</l>
+               <l>But firſt obſerve, if thou wilſt write again,</l>
+               <l>'Tis requiſite thou keep a milder Strain;</l>
+               <l>For I will not hard Words with hard repay,</l>
+               <l>Nor Force add unto Force to gain my way.</l>
+               <l>'Tis Truth I ſeek, and it ſhall be my bound,</l>
+               <l>According as God's Gift and Power's found.</l>
+               <l>I'll not ſay of my ſelf in that reſpect,</l>
+               <l>As thou once ſaid at <hi>Brigg, I am Perfect;</hi>
+               </l>
+               <l>But this I'll ſay, in me the Truth did ſpring</l>
+               <l>Before for Truth I acted any thing;</l>
+               <l>Yet I'll not ſay that all I've ſaid and done</l>
+               <l>In Weight and Number with the Truth will run:</l>
+               <l>But this I'll ſay, where wrong, to Truth I'll yield,</l>
+               <l>Before without it I would gain the Field.</l>
+               <l>Therefore come forth i'th' Method that is true,</l>
+               <l>And do thy beſt my Failings to purſue;</l>
+               <l>As Wooll well pack'd, by yielding I'll reſiſt</l>
+               <l>The greateſt Force in which thou can perſiſt;</l>
+               <pb n="3" facs="tcp:48993:5"/>
+               <l> For in the main I do for Truth contend,</l>
+               <l>And in the Truth that War muſt have an end.</l>
+            </lg>
+            <lg>
+               <l>With my laſt Letter I ſhall firſt begin,</l>
+               <l>Becauſe I find thou takes it as a Sin,</l>
+               <l>Or as a Crime in me, or great Offence,</l>
+               <l>So plainly unto thee to write my Senſe:</l>
+               <l>To me 'tis plain thou takes it in this ſort,</l>
+               <l>By the detracting Words thou doſt retort;</l>
+               <l>Affirming that I rage, I rave and roar,</l>
+               <l>With ſtorming, foaming, and a number more</l>
+               <l>Words too ſevere, and hard to have relation</l>
+               <l>To what thou calls <hi>A friendly Salutation;</hi>
+               </l>
+               <l>For which I know no Cauſe in what was writ,</l>
+               <l>So thinks that thy Miſtake hath cauſed it:</l>
+               <l>In this thou haſt not been ſo kind to me,</l>
+               <l>Nor to thy ſelf, if thou miſtaken be,</l>
+               <l>As to ſet forth the Matter, or that Thing</l>
+               <l>Whence theſe hard Words and grand Diſpleaſure ſpring.</l>
+               <l>I am therefore in no Capacity</l>
+               <l>My ſelf nor thee, where wrong, to rectifie.</l>
+               <l>In ſhort, I'm right or wrong in what is done;</l>
+               <l>If right, thou doſt too hard upon me run;</l>
+               <l>But if I'm wrong, thou ſtill art found to blame</l>
+               <l>That didſt not now partic'larize the ſame;</l>
+               <l>For gen'ral Charges all Men will declare,</l>
+               <l>To prove one Evil thing, invalid are;</l>
+               <l>Nay 'tis a Maxim, That Deceit doth lurk</l>
+               <l>In Gen'rals, and doth there obſcurely work.</l>
+               <l>Thus gen'ral Charges are like Deeds o'th' Night,</l>
+               <l>Where Men decline the Scrut'ny of the Light.</l>
+               <l>In ſhort, by thoſe hard Words which thou haſt us'd,</l>
+               <l>I apprehend my ſelf to be abus'd.</l>
+               <pb n="4" facs="tcp:48993:6"/>
+               <l> But if thou think this Charge thou can'ſt retrieve</l>
+               <l>By anſwering mine, which I do not believe,</l>
+               <l>Yet that thou mayſt incourag'd be unto it,</l>
+               <l>I promiſe ſo ſubmit when thou canſt do it.</l>
+               <l>Mean while I ſhall proceed t' obſerve the reſt,</l>
+               <l>Which in a gen'ral way is ſtill expreſt;</l>
+               <l>Which ſeems to me no edifying way,</l>
+               <l>Becauſe the Truth doth almoſt undiſcerned lay.</l>
+               <l>Firſt with the State of Reſt thou doſt begin,</l>
+               <l>Enumerating many Virtues in</l>
+               <l>That Sate; which as thou ſtateſt them appear</l>
+               <l>Not plain but intricate: thou ſpeakeſt there</l>
+               <l>Of th' Fold of Reſt in th' heat o'th' Day to be</l>
+               <l>Plac'd in the Reſt, which can't with Truth agree;</l>
+               <l>For in true Reſt there is no Day too hot;</l>
+               <l>This clearly ſhows that in it thou art not;</l>
+               <l>In it no Inequalities there are,</l>
+               <l>But all its Parts are congruous, calm and fair;</l>
+               <l>And where each Part's alike equally, ſure</l>
+               <l>There needs no Fold of reſting to ſecure;</l>
+               <l>For thus a Fold into a Fold is got,</l>
+               <l>Which is improper, or elſe needeth not:</l>
+               <l>The Fold of Reſt is only in the Way,</l>
+               <l>For Travellers to reſt in th' Heat o'th' Day</l>
+               <l>For their Refreſhment, when too much oppreſt</l>
+               <l>By Heat i'th' Way, and travel for the Reſt.</l>
+               <l>By Fold of Reſt we then may underſtand</l>
+               <l>The Shadow of the Rock in th' weary Land.</l>
+               <l>Thou ſayeſt the Angel in the Reſt doth ſtand,</l>
+               <l>Which leads the Flock into the Holy Land.</l>
+               <l>Thy Words, as may be ſeen, imply no leſs,</l>
+               <l>As each obſervant Reader will confeſs;</l>
+               <l>Which if good Senſe, and underſtood by me,</l>
+               <l>The Reſt and Holy Land do not agree;</l>
+               <pb n="5" facs="tcp:48993:6"/>
+               <l> Nay they are not one State, but differ wide;</l>
+               <l>For ſayſt, the Angel from the Reſt doth guide</l>
+               <l>Into the Holy Land; by which thou haſt</l>
+               <l>Raſhly thy ſelf into Confuſion caſt:</l>
+               <l>For ſure the Reſt and Holy Land are one,</l>
+               <l>And 'tis as ſure i'th' reſt the Angel leadeth none.</l>
+               <l>That th' Angel leadeth in the Way I grant,</l>
+               <l>But in the Reſt that's true there is no want.</l>
+               <l>I know 'tis glorious, for in it I have been</l>
+               <l>On the Lord's Day, and then have plainly ſeen</l>
+               <l>Thoſe true Dimenſions there, by which I know</l>
+               <l>A right Account of it thou doſt not ſhow:</l>
+               <l>And if a right Account thou cannot give,</l>
+               <l>'Tis evident in it thou doſt not live:</l>
+               <l>And if thou lives not in't, then in a Dream,</l>
+               <l>Where there is nothing truth that ſo doth ſeem.</l>
+               <l>No wonder! for thy Reſt ſeems in the way</l>
+               <l>In which is chiefly known the Working Day;</l>
+               <l>And they who take their Peace and Reſt up here,</l>
+               <l>Exceeding great in their own Eyes appear:</l>
+               <l>Their Acts, and Words, and Forms they magnifie</l>
+               <l>As outward things above their Value high:</l>
+               <l>Of their Injoyments wondrous Noiſe they make,</l>
+               <l>As if they could by Force the Kingdom take:</l>
+               <l>They none can know, nor can they well agree</l>
+               <l>With any but of that Fraternity:</l>
+               <l>They ſee not how the Rains and Dews do fall,</l>
+               <l>Nor how from God the Sun doth ſhine on all.</l>
+               <l>Their Way and Form becomes to them a Snare,</l>
+               <l>Which God at firſt might for their Good prepare;</l>
+               <l>That they might through its uſe look for the Seed,</l>
+               <l>To whom the Promiſe is in time of need:</l>
+               <l>But ſuch ſeem Rich, and Wiſe, and nothing want,</l>
+               <l>Whilſt they are Blind, and Poor, and Ignorant.</l>
+               <pb n="6" facs="tcp:48993:7"/>
+               <l> As this is ſeen; if any diſapprove,</l>
+               <l>And ſhow't, it will their Indignation move</l>
+               <l>To perſecute ſuch in an unjuſt Hate,</l>
+               <l>As Troublers and Diſturbers of their State.</l>
+               <l>But 'tis no News, it's not their Fault alone,</l>
+               <l>Self-Righteous Men in every Age have ſhown</l>
+               <l>The ſame to ſuch as happ'ned to diſpleaſe,</l>
+               <l>By troubling them in their falſe Reſt and Eaſe:</l>
+               <l>But as they're mov'd and troubl'd ſoon, 'tis plain</l>
+               <l>They never yet did the true Reſt attain.</l>
+               <l>Nor whilſt their Voice is heard ſo loud i'th' Street,</l>
+               <l>Did they with the ſtrait Gate yet ever meet;</l>
+               <l>Nor, whilſt their Work's ſo much inſiſted on,</l>
+               <l>Know they the Reſt in which the Work is done;</l>
+               <l>Nor whilſt their Care's ſo much i'th' outward Court,</l>
+               <l>Do they know that where th' Righteous do reſort;</l>
+               <l>Whoſe Life as all is hid with Chriſt in God,</l>
+               <l>Where inwardly their Souls make their abode:</l>
+               <l>And as that which is hidden can't be ſeen,</l>
+               <l>So they have never in great Flouriſh been.</l>
+               <l>Their Kingdom, as long ſince their Maſter ſaid,</l>
+               <l>Of Worldly Things is neither form'd nor made.</l>
+               <l>They low and little are in their own Eyes,</l>
+               <l>And ne'er extol themſelves as great or wiſe:</l>
+               <l>And as they're low, ſo they at little aim</l>
+               <l>Of that, which th'other boaſtingly proclaim:</l>
+               <l>They're like unto the Daughters of the King,</l>
+               <l>Which altogether Glorious are within.</l>
+               <l>As for their Works, they're com'd unto an End,</l>
+               <l>That on God's Work in them they may depend:</l>
+               <l>They ceaſe to work, but never ceaſe to ſhew</l>
+               <l>Theſe Works God has in them wrought that are true;</l>
+               <l>This Path is narrow, and the Gate is ſtrait,</l>
+               <l>And few there be that enter in thereat.</l>
+               <pb n="7" facs="tcp:48993:7"/>
+               <l>'Tis ſtrait, as <hi>Abr'am</hi>'s off'ring up his Son,</l>
+               <l>In whom his Hopes and Comfort was begun:</l>
+               <l>He offer'd him in whom the Promiſe ſtood;</l>
+               <l>It was his All, and yet the Act was good.</l>
+               <l>Whatever's good doth come from God, it's plain,</l>
+               <l>And when recall'd, we ſhould reſtor't again;</l>
+               <l>Nay, he recalleth that which he did give,</l>
+               <l>That we might ſee, by him we only live.</l>
+               <l>He lendeth help us to regenerate,</l>
+               <l>And with him we ſeem to co-operate</l>
+               <l>That Work to perfect; but when that is done,</l>
+               <l>It's offer'd up, as <hi>Abr'am</hi> did his Son:</l>
+               <l>Yea, even as to Death, at God's Command.</l>
+               <l>And this is done, that we might underſtand</l>
+               <l>Our Weakneſs, and our Nothingneſs diſcern,</l>
+               <l>And th' Gate of true Humility might learn.</l>
+               <l>When this Act's done, we in another ſort</l>
+               <l>Receive, that we may ſenſibly report,</l>
+               <l>Man ſav'd in Mercy, not by Works muſt be,</l>
+               <l>Yea, by the Grace of God, that's ever free.</l>
+               <l>This we ne'er truly knew, till we did meet</l>
+               <l>Grace without Works in Love our Souls to greet.</l>
+               <l>Nor can that Act be done and truly known,</l>
+               <l>Till Works are unto their Perfection grown.</l>
+               <l>This Act is then as Ev'ning to that Reſt,</l>
+               <l>Whoſe Morning is the Sabbath which is bleſt;</l>
+               <l>Concerning which, much more might here be ſaid,</l>
+               <l>But that my Letter would too long be made:</l>
+               <l>So ſhall defer my further Argument,</l>
+               <l>Until a ſitter Seaſon do preſent.</l>
+               <l>Mean while I will a little let thee ſee</l>
+               <l>How with thy ſelf thou ſtill doſt diſagree:</l>
+               <l>In what haſt written, thou wouldſt ſeem my Friend,</l>
+               <l>Until thou comeſt near the latter end.</l>
+               <pb n="8" facs="tcp:48993:8"/>
+               <l> What put thee out of humour whilſt thou writ?</l>
+               <l>That at the Laſt thou ſhould the Firſt forget.</l>
+               <l>A Friend at firſt, but at the laſt art none:</l>
+               <l>What Humour this deſerveth to be ſhown.</l>
+               <l>'Tis like ſome fooliſh Fancy, if not vain,</l>
+               <l>Which in thy next I pray thee well explain.</l>
+               <l>Thou ſayſt, "Dear <hi>John,</hi> let's not diſturb each other,</l>
+               <l>"Then ſhall my Heart and Spirit call thee Brother:</l>
+               <l>"But if thou'll not thy raging Spirit curb,</l>
+               <l>"But thou will ſtill the Churches Peace diſturb,</l>
+               <l>"Then ſtand thee forth, and hearken to the Doom</l>
+               <l>"Of holy Church, which without doubt will come.</l>
+               <l>'Tis plainly in the two firſt Lines imply'd,</l>
+               <l>If I moleſt thee not, we ſhall abide</l>
+               <l>Without reſerve, in cordial Friendſhip ty'd.</l>
+               <l>And yet before I'd given thee denial,</l>
+               <l>Or thou hadſt made of me a further Trial,</l>
+               <l>Againſt me thou proceedeſt in the latter,</l>
+               <l>And threatens with ſome other awful Matter;</l>
+               <l>By which, if thou or thoſe thy Words agree,</l>
+               <l>It is as conſtant in unconſtancy.</l>
+               <l>Likewiſe for Peace whilſt thou did ſeem to ſpeak,</l>
+               <l>Thou didſt for War but an Occaſion ſeek.</l>
+               <l>— As to Holy Churches Doom,</l>
+               <l>From whence, or from what People muſt it come?</l>
+               <l>And what's the Fault and Crime which I have done?</l>
+               <l>That I am into ſo great Danger run:</l>
+               <l>Diſturbance being a Word in general</l>
+               <l>As oft beſides as in the Truth doth fall.</l>
+               <l>Thou ſhould therefore the Fact have ſpecifi'd,</l>
+               <l>That by ſome Rule thy Charges might be try'd.</l>
+               <l>For I, whilſt in the Dark thou doſt me ſhoot,</l>
+               <l>How to avoid the Danger am in doubt.</l>
+               <pb n="9" facs="tcp:48993:8"/>
+               <l> For thou ſhouldſt not ſuppoſe I can be made,</l>
+               <l>Of what I neither hear nor ſee, afraid;</l>
+               <l>And what is not, and what doth not appear,</l>
+               <l>Are both alike, as tho' they never were.</l>
+               <l>Of Holy Church thou doſt begin to ſpeak,</l>
+               <l>But where or what ſhe is, I'm ſtill to ſeek.</l>
+               <l>The World we know is of Pretenders full;</l>
+               <l>Deſcribe her therefore by a certain Rule.</l>
+               <l>This I deſire of thee to undertake,</l>
+               <l>Becauſe I would to her a Journey make;</l>
+               <l>For if ſhe Holy is, I truly ſee,</l>
+               <l>None but the Heretick cut off muſt be.</l>
+               <l>An Heretick doth againſt Knowledge act;</l>
+               <l>For to be Self-condemned is his Fact.</l>
+               <l>This Cauſe with thee I would before her plead,</l>
+               <l>In hopes I might thy Judgment ſuperſede:</l>
+               <l>For I for Proof would thy own Words produce</l>
+               <l>Before her for my Service and my Uſe:</l>
+               <l>Since thou haſt ſaid my Way to me ſeems right,</l>
+               <l>And that thou know'ſt; then I againſt my Light</l>
+               <l>Act not therein; as this thou muſt confeſs</l>
+               <l>She cannot me for Hereſie ſuppreſs.</l>
+               <l>Again I would deſire of her to know,</l>
+               <l>If ſhe Commiſſion gave thee thus to do;</l>
+               <l>Or if ſhe had ſelected and made choice</l>
+               <l>Of thee to be the Oracle of her Voice.</l>
+               <l>For how canſt thou be any other way</l>
+               <l>Aſcertain'd what ſhe ſhall both do and ſay?</l>
+               <l>And if not certain, is't not Arrogance</l>
+               <l>Or Folly, thus thy Judgment to advance?</l>
+               <l>—"Thou ſaith It is your Creed</l>
+               <l>"Back into Bonds to drive the Holy Seed;</l>
+               <l>"For where our Walls are weak, if we repair,</l>
+               <l>"Thou and ſuch Men as thee diſturbed are,</l>
+               <pb n="10" facs="tcp:48993:9"/>
+               <l>"As were of old that ſubtil Hornet breed,</l>
+               <l>"Who was the like unto old <hi>Jacob</hi>'s Seed.</l>
+               <l>Theſe Walls thats weak are of <hi>Jeruſalem,</hi>
+               </l>
+               <l>And how can I compared be to them?</l>
+               <l>But then the Matter ſtill, which I ſhould know,</l>
+               <l>Is, whether 'tis <hi>Jeruſalem</hi> below?</l>
+               <l>Or that above? thou ſhould agree to this,</l>
+               <l>Leaſt I might underſtand that Point amis:</l>
+               <l>This thou omitted; but I ne'er did read</l>
+               <l>Of more than two, and therefore will proceed</l>
+               <l>T'enquire which of theſe Cities it muſt be,</l>
+               <l>To which thy Words moſt fitly can agree.</l>
+               <l>As for <hi>Jeruſalem</hi> that is above,</l>
+               <l>Her Walls are perfect good, the Scriptures prove:</l>
+               <l>For God her Walls hath good and perfect made,</l>
+               <l>And none to that which he hath done can add.</l>
+               <l>Therefore it never can this City be,</l>
+               <l>Which the kind Mother is of all that's free.</l>
+               <l>It then muſt be <hi>Jeruſalem</hi> below,</l>
+               <l>Concerning which the Sacred Scriptures ſhow.</l>
+               <l>When Men have done whate're they can as Men,</l>
+               <l>She is in bondage with her Childeren.</l>
+               <l>What Work is this, or what do you intend?</l>
+               <l>When more you work, ſtill more you have to mend:</l>
+               <l>For is not this like them that's learning ever,</l>
+               <l>But ne'er attain the Truth by that Indeavour?</l>
+               <l>Or like to them that found out <hi>Shinar</hi>'s Plain,</l>
+               <l>A <hi>Babel</hi>'s Tower to erect again?</l>
+               <l>And like to them will you not ſtopped be,</l>
+               <l>Until your Language you divided ſee?</l>
+               <l>Is't not divided if you could but mind,</l>
+               <l>Might you not ſee the ſame, and truly find?</l>
+               <l>But where the Bricks are fallen down and gone,</l>
+               <l>Are you reſolv'd to build with hewen Stone?</l>
+               <pb n="11" facs="tcp:48993:9"/>
+               <l> Let me adviſe, that be not done in pride;</l>
+               <l>For if it be, you'll loſe when you are try'd.</l>
+               <l>Thou ſayſt,</l>
+               <l>"Nor muſt thou more that wicked Leaven ſpread,</l>
+               <l>"Nor in the Courts of Holy Temple tread.</l>
+               <l>What Temple's this, I pray thee well explain,</l>
+               <l>Whoſe hallow'd Courts I muſt no more profane?</l>
+               <l>What is its Form, and where muſt it be found?</l>
+               <l>If Holy, it ſhou'd ſtand on Holy Ground.</l>
+               <l>I ne'er of truly Sacred Temples heard,</l>
+               <l>But thoſe that in <hi>Jeruſalem</hi> were rear'd.</l>
+               <l>And of <hi>Jeruſalems</hi> I find there's two,</l>
+               <l>Yet which of them it is thou doſt not ſhow;</l>
+               <l>So leaves me, as before, uncertain where</l>
+               <l>The Temple is, of which thou ſpeakeſt here.</l>
+               <l>
+                  <hi>Jeruſalem</hi> above I certain am</l>
+               <l>No Temple hath except God and the Lamb;</l>
+               <l>And yet thou haſt not proved, how thy Word</l>
+               <l>With that moſt Holy Temple can accord.</l>
+               <l>For when thou ſayſt your Walls do want repair,</l>
+               <l>Don't think that there th' Courts of this Temple are.</l>
+               <l>I alſo find by ſeeking thus about,</l>
+               <l>You from the Courts above can't ſhut me out.</l>
+               <l>Your Power's below, and yet what Temple's this,</l>
+               <l>Whoſe outward Court we find unmeaſur'd is?</l>
+               <l>Limits and Bounds will you preſume to ſet,</l>
+               <l>And meaſure that which God did not think fit?</l>
+               <l>Do you not hereby think your Form ſhall hold</l>
+               <l>God by his Spirit, as they did of old,</l>
+               <l>To whom the Prophets cried from the Lord,</l>
+               <l>When unto them they uttered his Word,</l>
+               <l>On that Occaſion, and in that reſpect,</l>
+               <l>In theſe plain Words, or unto this effect;</l>
+               <pb n="12" facs="tcp:48993:10"/>
+               <l> 
+                  <hi>Heaven's my Throne, Earth as my Footſtool lays,</hi>
+               </l>
+               <l>
+                  <hi>Where is the Houſe that you for me will raiſe?</hi>
+               </l>
+               <l>
+                  <hi>Or where's the Form, Way, or Place of my reſt</hi>
+               </l>
+               <l>
+                  <hi>In all external Things to be expreſt?</hi>
+               </l>
+               <l>
+                  <hi>The World I form'd, and its Foundation laid,</hi>
+               </l>
+               <l>
+                  <hi>And every thing that's in it I have made;</hi>
+               </l>
+               <l>
+                  <hi>The Rivers, Lakes, and Seas, and every Fountain,</hi>
+               </l>
+               <l>
+                  <hi>With ev'ry Hill and Vale, and ev'ry Mountain;</hi>
+               </l>
+               <l>
+                  <hi>I've made the Beaſts that do upon them feed,</hi>
+               </l>
+               <l>
+                  <hi>The fleecy Flocks, and all the winged Breed:</hi>
+               </l>
+               <l>
+                  <hi>The Fiſh I've made that in the Waters move,</hi>
+               </l>
+               <l>
+                  <hi>And theſe together do my Grandure prove:</hi>
+               </l>
+               <l>
+                  <hi>And as I've made them all, they on me wait;</hi>
+               </l>
+               <l>
+                  <hi>If I ſtood need, I need not it relate</hi>
+               </l>
+               <l>
+                  <hi>To Man; for mine they're all and ever were;</hi>
+               </l>
+               <l>
+                  <hi>And yet at all times empty do appear,</hi>
+               </l>
+               <l>
+                  <hi>When Man has offer'd them to me as Merit,</hi>
+               </l>
+               <l>
+                  <hi>Without a broken and a contrite Spirit.</hi>
+               </l>
+               <l>
+                  <hi>A broken Spirit trembles at my Word,</hi>
+               </l>
+               <l>
+                  <hi>To this I always did my Grace afford;</hi>
+               </l>
+               <l>
+                  <hi>To this Man 'tis that I did ever look,</hi>
+               </l>
+               <l>
+                  <hi>And have of him at all times notice took;</hi>
+               </l>
+               <l>
+                  <hi>And what from firſt has been by me preſerr'd</hi>
+               </l>
+               <l>
+                  <hi>Unto the laſt I'll have the ſame regard.</hi>
+               </l>
+               <l>The Subject's high, and I had much to ſay,</l>
+               <l>But time at preſent calleth me away.</l>
+               <l>Some things thou mayſt obſerve I've ſpoken to,</l>
+               <l>And query'd others, that thou mighteſt ſhow</l>
+               <l>The Certainty of what thou did intend</l>
+               <l>In theſe thy Words, which I unto thee ſend.</l>
+               <l>And as thou didſt another once direct,</l>
+               <l>That thou obſerve the ſame I do expect:</l>
+               <l>Whene'er thou writes or ſpeakeſt be ſo plain,</l>
+               <l>As that the meaneſt may thy Senſe attain.</l>
+               <pb n="13" facs="tcp:48993:10"/>
+               <l> Thus where thy Sayings are obſcure to me,</l>
+               <l>I do expect they ſhould explained be.</l>
+               <l>In the preceding part I've noted ſome,</l>
+               <l>And more ſhall be adjoyn'd in what's to come.</l>
+               <l>What Seamleſs Garment's this which you do wear?</l>
+               <l>And who are theſe that in it do appear?</l>
+               <l>When that is done, I pray thee next deſcend</l>
+               <l>To ſhew how I this Seamleſs Garment rend.</l>
+               <l>What Government of Truth do I withſtand?</l>
+               <l>Demonſtrate fairly under thy own Hand.</l>
+               <l>For how ſhould I from Error guide my Feet</l>
+               <l>If I don't know't, nor thou doſt let me ſee't?</l>
+               <l>What is this Power unto which I'm bound,</l>
+               <l>And am againſt it in rebellion found?</l>
+               <l>The Charge is high, remember thou produce</l>
+               <l>Good Witneſs, elſe th'art guilty of Abuſe:</l>
+               <l>For to thy Charge <hi>Not Guilty</hi> I dare plead,</l>
+               <l>That I to tryal with thee might proceed:</l>
+               <l>What wicked Leaven is't I muſt not ſpread?</l>
+               <l>Moreover where and what's this Holy Seed?</l>
+               <l>And what's my Creed, I pray thee well explain,</l>
+               <l>By which I would lead back that Seed again?</l>
+               <l>What cleanſing Wind is this, whence doth it blow,</l>
+               <l>That Filth as Chaff out of the Church can throw?</l>
+               <l>What Filth is this that doth ſo light appear,</l>
+               <l>That with that Wind the Church of it you clear?</l>
+               <l>And once for all let it be underſtood,</l>
+               <l>What I oppoſe that is ſincere and good.</l>
+               <l>As Truth is plain, ſo it is alſo free</l>
+               <l>To anſwer ſuch as in ſincerity</l>
+               <l>Do ſeek the Truth, by what they do inquire;</l>
+               <l>Which as above to know is my deſire.</l>
+               <l>Thou wilſt therefore by what is done be try'd,</l>
+               <l>As it is by thee granted or deny'd.</l>
+               <pb n="14" facs="tcp:48993:11"/>
+               <l> For as we friendly mutual Freedom take,</l>
+               <l>'Tis likely we may further Progreſs make</l>
+               <l>To ſee the Things of Truth, and more may learn</l>
+               <l>Of Things that differ, which may us concern.</l>
+               <l>For ev'ry Diff'rence is not really evil,</l>
+               <l>Except 'tis aggravated by the Devil.</l>
+               <l>Nay, there is diff'rence in a Senſe that's good,</l>
+               <l>If it could be but truly underſtood:</l>
+               <l>For God regards and doth his Love impart</l>
+               <l>To ev'ry true, upright, and ſincere Heart.</l>
+               <l>The outward cannot th' inward ſanctifie,</l>
+               <l>Nor can our Souls for God be form'd thereby.</l>
+               <l>'Tis for the inward, not the outward's ſake,</l>
+               <l>God doth of Mankind truly notice take:</l>
+               <l>For there's no Form that can acceptance find,</l>
+               <l>If there doth want Uprightneſs in the Mind.</l>
+               <l>But where the Mind to God-ward is ſincere,</l>
+               <l>In any Place to ſuch he draweth near:</l>
+               <l>For God hath left the outward Court unmet,</l>
+               <l>That we ſhould not impeded be by it,</l>
+               <l>Nor that it ſhould for th' future any more</l>
+               <l>Be Cauſe of Envy, as 'twas heretofore.</l>
+               <l>So the right Uſe that ſhould of Forms be made,</l>
+               <l>In them's to wait for him on whom Help's laid,</l>
+               <l>The Seed of old to Mankind promiſed,</l>
+               <l>To ſuccour him, and bruiſe the Serpent's Head.</l>
+               <l>If all in doing this could well agree,</l>
+               <l>There is no Diff'rence that can evil be.</l>
+               <l>O happy Time, when this is brought about!</l>
+               <l>The Good is kept, and Evil is ſhut out.</l>
+               <l>Then God with Love and Peace the Soul doth fill,</l>
+               <l>And unto Man there's nothing but Good-will.</l>
+               <l>Here Man by Int'reſt unto Love is bound,</l>
+               <l>And in that Caſe all gladly would be found.</l>
+               <pb n="15" facs="tcp:48993:11"/>
+               <l> Thou ſeeſt I call on thee to write again;</l>
+               <l>But mind thou be in thy Expreſſions plain:</l>
+               <l>For from dark Writing, which the Intellect</l>
+               <l>Cann't comprehend, no Profit we expect.</l>
+            </lg>
+            <lg>
+               <l>Of many Things we have begun to ſpeak;</l>
+               <l>And that which I from thee at preſent ſeek,</l>
+               <l>Is, that thou willſt proceed diſtinctly on</l>
+               <l>From Point to Point, until the whole be done.</l>
+               <l>For if thou'l here in friendly ſort aſſent,</l>
+               <l>I'm well aſſur'd, it will have good Event:</l>
+               <l>But if thou wilt reject what I propoſe,</l>
+               <l>And as before ſhall write, then may I loſe</l>
+               <l>My Labour and Advice in this Aſſay;</l>
+               <l>But my Reward thou canſt not take away.</l>
+               <l>Where the Term <hi>You</hi> thou chanceth here to find,</l>
+               <l>It noteth Thee, and others of thy Mind.</l>
+               <l>Thoſe that are free I do not int'rogate,</l>
+               <l>Nor do I charge them to be in thy State:</l>
+               <l>My Words therefore I would not have thee ſtretch</l>
+               <l>Beyond what I intended them to reach:</l>
+               <l>For if thou ſeekeſt my Intent to find,</l>
+               <l>Take the beſt Senſe, and thou wilt have my Mind:</l>
+               <l>But if to this thou ſhalt contrary do,</l>
+               <l>It is as thou wouldſt not be done unto.</l>
+               <l>A noted Error do not thou ſtand in;</l>
+               <l>For that at laſt is finiſhed in Sin.</l>
+               <l>Whate'er thou findeſt wrong, do not defend;</l>
+               <l>For that's no proper way the Fault to mend.</l>
+               <l>In what thou thinks thou'rt ſure, there modeſt be,</l>
+               <l>And then no doubt but ſtill we may agree.</l>
+               <l>Thus in a friendly Mind I take my leave,</l>
+               <l>And reſt thy Friend, if thou can it perceive.</l>
+            </lg>
+         </div>
+         <div n="2" type="part">
+            <pb n="16" facs="tcp:48993:12"/>
+            <head>SOME REMAINS OF <hi>JOHN HOGG.</hi>
+            </head>
+            <head>PART II.</head>
+            <lg>
+               <l>TO write in Meter was not my Intent,</l>
+               <l>Until ſome Verſes were unto me ſent:</l>
+               <l>Which Matter when conſider'd in my Mind,</l>
+               <l>The Author, I believ'd, ſome Fault would find,</l>
+               <l>If I did not my ſelf to him addreſs</l>
+               <l>In the like way he did himſelf expreſs.</l>
+               <l>And leſt the Matter he ſhould diſreſpect</l>
+               <l>For want of writing in his Dialect,</l>
+               <l>I thought it better, if I could but find</l>
+               <l>Clearneſs, in Verſe to write to him my Mind,</l>
+               <l>Than otherwiſe; and then it did appear,</l>
+               <l>As I conſider'd it, moſt plain and clear:</l>
+               <l>For on that Conſideration, this I found,</l>
+               <l>It was not Modes of Speech, it was the Ground</l>
+               <pb n="17" facs="tcp:48993:12"/>
+               <l> From which Words ſprung or came, with the Intent</l>
+               <l>That they were brought forth, and abroad were ſent.</l>
+               <l>This was the Matter; for we truly find,</l>
+               <l>Th' Abuſe of Things doth never change their Kind:</l>
+               <l>Seeing God hath in the World made nothing Evil,</l>
+               <l>All Miſuſe and Abuſe is of the Devil;</l>
+               <l>Yet what is Evil made by his Abuſe,</l>
+               <l>May be at other Times put to good Uſe.</l>
+               <l>In ſpeaking gen'rally, this holdeth true;</l>
+               <l>(And I would give to ev'ry Thing its due.)</l>
+               <l>For Inſtance: What can we more Evil ſhow</l>
+               <l>Than Words, when from an evil Ground they flow?</l>
+               <l>And yet what Word is there ſo evil made,</l>
+               <l>But to good Uſe the ſame may well be ſaid?</l>
+               <l>And what is here by me to Words apply'd,</l>
+               <l>It may in Verſe and other Things be try'd.</l>
+               <l>For writing Verſe I need not his Excuſe,</l>
+               <l>Becauſe himſelf hath put it firſt in uſe;</l>
+               <l>And therefore ſince he did me here precede,</l>
+               <l>My Way's no other than what he did lead;</l>
+               <l>And no Man can another juſtly blame,</l>
+               <l>When he himſelf's a doer of the ſame.</l>
+               <l>But thinking others may read, hear, and ſee</l>
+               <l>What we have written, beſides him and me;</l>
+               <l>For them it is that I apologize,</l>
+               <l>That as they underſtand, they may be wiſe,</l>
+               <l>Not to condemn, before they prove the Way</l>
+               <l>Of Words in Number, which is my Aſſay.</l>
+               <l>For if there be for ev'ry Thing a Time,</l>
+               <l>A Seaſon then there is to write in Rhime.</l>
+               <l>This all ſhould note, and no Occaſion take</l>
+               <l>Againſt the Matter, for the Methods ſake:</l>
+               <l>For unto me 't ſeems clear and manifeſt,</l>
+               <l>That weighty Truths may be in Verſe expreſt;</l>
+               <pb n="18" facs="tcp:48993:13"/>
+               <l> And ſuch as find 'em there, and them refuſe</l>
+               <l>Becauſe o'th' Form, the Truth they do abuſe.</l>
+               <l>Try all things, and retain whatever's good,</l>
+               <l>Speaks ev'ry Caſe, where Truth is underſtood,</l>
+               <l>Or may be found: If ſuch will but apply</l>
+               <l>Their Minds to ſearch, and things for Truth to try:</l>
+               <l>But if ſome will not try, and yet condemn,</l>
+               <l>This ſeems to be raſh Fooliſhneſs in them;</l>
+               <l>Or elſe I judge that ſuch conceited are,</l>
+               <l>And then of Fools more hopes there is by far;</l>
+               <l>For Fools according to their Folly do,</l>
+               <l>And that's becauſe they do no better know;</l>
+               <l>But as deny'd of Reaſon, therefore may</l>
+               <l>Be more excuſed for a Fault, than they</l>
+               <l>Who have a Talent given, yet refuſe</l>
+               <l>Their Talent to improve, exchange, or uſe;</l>
+               <l>How can they further plead Excuſe, when try'd,</l>
+               <l>Than he that did i'th' Earth his Talent hide?</l>
+               <l>Or what can ſuch expect from Judgment juſt,</l>
+               <l>But, like him, be deprived of their Truſt?</l>
+               <l>But who ſo blind as him that will not ſee?</l>
+               <l>Or fooliſh, that's reſolved ſo to be?</l>
+               <l>And now to touch the Matter ſhall deſcend,</l>
+               <l>Of which to write at preſent, did intend:</l>
+               <l>I find the Author in a gen'ral way</l>
+               <l>Condemns me, and great Fault doth on me lay,</l>
+               <l>Adviſing me, that I may back return</l>
+               <l>With ſpeed, and for my paſt Offences mourn;</l>
+               <l>But Faults he ſheweth none, therefore to me</l>
+               <l>All I have acted muſt condemned be;</l>
+               <l>And foraſmuch as he declares, A Doom</l>
+               <l>Is from ſome People like on me to come:</l>
+               <l>Some have (it ſeems) a Combination made</l>
+               <l>Againſt me, and ſome evil Project laid.</l>
+               <pb n="19" facs="tcp:48993:13"/>
+               <l> But that I may prevent that bad deſign,</l>
+               <l>Note this, I pray, The Work was none of mine:</l>
+               <l>What I have done it was at God's Command,</l>
+               <l>Or I, at leaſt, do ſo it underſtand.</l>
+               <l>Good Conſcience then in this Caſe I may plead,</l>
+               <l>And where no Evil is, that you ſhou'd heed,</l>
+               <l>Leſt raſhly you your ſelves precipitate</l>
+               <l>Into an Act, which you may rue too late.</l>
+               <l>Perhaps you'll ſay, that all you do's in Love,</l>
+               <l>Which thinks no ill; yet that doth nothing prove.</l>
+               <l>What Rule give you that I may certain be</l>
+               <l>In what you ſay there's no Hypocriſie?</l>
+               <l>But if you think you're true, how muſt I know,</l>
+               <l>That you may not miſtake in what you do.</l>
+               <l>Produce the Rule, by which the Truth you'll ſhew,</l>
+               <l>And ſee if I cannot as good give you.</l>
+               <l>What tho' ſome ſeem in good will to begin,</l>
+               <l>That is not much; the <hi>Syrens</hi> alſo ſing,</l>
+               <l>Whilſt their intent is with deluding Charms</l>
+               <l>To draw the Saylers into fatal Harms;</l>
+               <l>Such as are wary when the Charms they hear,</l>
+               <l>Keep on their Courſe, or do a better ſteer;</l>
+               <l>And by that Caution get entirely free</l>
+               <l>O'th' ſad Miſhap, wherewith they menac'd be:</l>
+               <l>But ſuch as unto them an Ear ſhall lend,</l>
+               <l>May in quick Ruin ſurely find their End.</l>
+               <l>If this a Fiction be; yet it is clear,</l>
+               <l>A noted Truth in'ts Moral doth appear.</l>
+               <l>For thus did th' Serpent to our Mother <hi>Eve,</hi>
+               </l>
+               <l>When his deſign was only to deceive.</l>
+               <l>Therefore we are not ſuddenly to lay</l>
+               <l>Our Hands on Man, tho' he may ſing or pray;</l>
+               <l>But wiſely to conſider of the End,</l>
+               <l>As well as Friendſhip, that ſuch may pretend,</l>
+               <pb n="20" facs="tcp:48993:14"/>
+               <l> Eſpecially where we've believ'd or learn'd,</l>
+               <l>That God's Command may be therein concern'd.</l>
+               <l>If <hi>Judah</hi>'s Prophet this had carefully</l>
+               <l>Obſerv'd on his Return from <hi>Bethel,</hi> he</l>
+               <l>By the old Prophet had not been deceiv'd,</l>
+               <l>Nor by the Lion of his Life bereav'd.</l>
+               <l>The Story's mournful if we heed it well,</l>
+               <l>Becauſe a Prophet by a Prophet fell.</l>
+               <l>As <hi>Judah</hi>'s Prophet was ſent by the Lord</l>
+               <l>'Gainſt <hi>Bethel</hi>'s Altar to declare his Word;</l>
+               <l>So in that place he was not Bread to eat,</l>
+               <l>Nor by the Way he thither went, retreat:</l>
+               <l>Nor doth't appear, but that he did intend</l>
+               <l>God's Mandate to obſerve unto the end;</l>
+               <l>For all the Arguments the King cou'd uſe</l>
+               <l>To make him ſtay to eat, he did refuſe;</l>
+               <l>Nay tho' to do't he promis'd a Reward,</l>
+               <l>Yet that like th'reſt, he ſtill did diſregard:</l>
+               <l>And by another Way, 'tis very plain,</l>
+               <l>He was intended to go home again.</l>
+               <l>Thus was he faithful, till it came to paſs</l>
+               <l>That he deceived by a Prophet was;</l>
+               <l>Who yet prevail'd not, till he let him know</l>
+               <l>He was a Prophet, and not only ſo,</l>
+               <l>But that th' Almighty by his Angel ſpake,</l>
+               <l>And bid go ſeek out, and conduct him back</l>
+               <l>Unto his Houſe, that he might with him ſtay</l>
+               <l>To be refreſh'd before he went away.</l>
+               <l>Thus far was <hi>Judah</hi>'s Prophet faithful found,</l>
+               <l>Until this time he firmly kept his Ground:</l>
+               <l>But now he fail'd; yet e're he was aware,</l>
+               <l>His raſh Credulity drew on the Snare.</l>
+               <l>'Tis like he thought it was the Prophet's due</l>
+               <l>To be believ'd, all Prophets being true:</l>
+               <pb n="21" facs="tcp:48993:14"/>
+               <l> This ſhow'd him young, that ſmall Experience had,</l>
+               <l>To think all Prophets good when ſome were bad:</l>
+               <l>That he a Prophet was none can deny,</l>
+               <l>He did not here miſtake but in his Lye;</l>
+               <l>Thus do we find, and are conſtrain'd to grant,</l>
+               <l>There may be Prophets true, that Truth may want.</l>
+               <l>Hence it appears, we ought not to depend</l>
+               <l>On Prophets, whatſoe're they may pretend;</l>
+               <l>Eſpecially when they perſuade us to</l>
+               <l>What we believe we never ought to do:</l>
+               <l>Some right, ſome wrong; here is uncertainty,</l>
+               <l>If we depend upon them generally:</l>
+               <l>And what's uncertain, if we don't believe</l>
+               <l>As certain Truth, a Lye we do receive;</l>
+               <l>And what unto the whole cannot belong,</l>
+               <l>Of right belongeth not to any one;</l>
+               <l>Therefore when Prophets Credit greatly preſs,</l>
+               <l>Becauſe themſelves as Prophets they expreſs;</l>
+               <l>At beſt from Truth they lead that ſo direct,</l>
+               <l>And them, whene're they do't, we may ſuſpect.</l>
+               <l>For Truth, we know, the Mind compleatly frees</l>
+               <l>From ev'ry Doubt, and all Uncertainties.</l>
+               <l>True Prophets therefore ever will direct</l>
+               <l>Unto the Truth i'th' Mind to have reſpect;</l>
+               <l>So in the Mind there may no Doubt remain,</l>
+               <l>For thoſe in Doubt are not in Truth 'tis plain.</l>
+               <l>True Prophets do adviſe each one to know</l>
+               <l>A certain Ground for what Men ſay and do,</l>
+               <l>Nor would have them on any ſo rely,</l>
+               <l>As to ſubmit and know no reaſon why.</l>
+               <l>For Truth not being in't, there's danger great</l>
+               <l>Leaſt ſuch may be impos'd on by Deceit;</l>
+               <l>Or otherwiſe if their intent be true,</l>
+               <l>Such may miſtake in what they do purſue.</l>
+               <pb n="22" facs="tcp:48993:15"/>
+               <l> And if the Blind led by the Blind ſhall be,</l>
+               <l>Neither the Danger of the Ditch can ſee.</l>
+               <l>Nor can intended Kindneſs juſtifie</l>
+               <l>The doing ill, that good may come thereby:</l>
+               <l>For if it could, th' old Prophet an Excuſe</l>
+               <l>Of like import for his Deceit might uſe;</l>
+               <l>For tho' he ly'd, it's plain he did intend</l>
+               <l>No leſs than Kindneſs to him, as a Friend;</l>
+               <l>Nay his Deſign was unto him to ſhew</l>
+               <l>Reſpect and Friendſhip as a Prophet true;</l>
+               <l>For he no ſooner heard that he was ſlain</l>
+               <l>By th' Lion, which did by him yet remain,</l>
+               <l>But Love prevailing o'er the Terror, led</l>
+               <l>His friendly Heart to go take up the Dead;</l>
+               <l>To whom he kindly decent Burial gave,</l>
+               <l>As good as he himſelf deſir'd to have;</l>
+               <l>For when he dy'd, he did command his Sons</l>
+               <l>To lay his Body by the Prophet's Bones;</l>
+               <l>And to his Honour ſaid would come to paſs</l>
+               <l>All that by him at <hi>Beth-ell</hi> ſpoken was.</l>
+               <l>What Man can ſhew unto another more</l>
+               <l>Reſpect than he to <hi>Judah</hi>'s Prophet bore,</l>
+               <l>Both after Death had ſeiz'd him, and before?</l>
+               <l>And yet, in that he led him from the Way</l>
+               <l>Which God on him as a Command did lay,</l>
+               <l>And by a Lye deceiv'd him, it's a Blot</l>
+               <l>In After-Ages ne'er to be forgot.</l>
+               <l>Thus all his Kindneſs will not juſtifie</l>
+               <l>His Fraud, or wipe away his Infamy.</l>
+               <l>For our Inſtruction this was ſurely writ,</l>
+               <l>That we might truly caution'd be by it,</l>
+               <l>No Man againſt his Reaſon to perſuade</l>
+               <l>To acquieſce with us; for (as I ſaid)</l>
+               <pb n="23" facs="tcp:48993:15"/>
+               <l> It is to him a Lye, if he receives</l>
+               <l>It for a Truth, and otherwiſe believes.</l>
+               <l>Nor ought we to prefer at ſecond Hand</l>
+               <l>What Men are pleas'd to ſay is God's Command,</l>
+               <l>Contrary to what we believe his Will;</l>
+               <l>That we ſhould value and keep to, until</l>
+               <l>It be perform'd, or ſuperſeded by</l>
+               <l>His Power that did on us that Service ly;</l>
+               <l>Nay, if I ſhould miſtake, had rather chuſe</l>
+               <l>Into God's Hands to fall, than him abuſe:</l>
+               <l>For Errors in this Caſe can rarely be</l>
+               <l>But in ſuch things as may with Truth agree;</l>
+               <l>And where I do believe there is an Awe,</l>
+               <l>Which, as 'tis true, is as th' Almighty's Law</l>
+               <l>To me, and if to that, as what I ſee</l>
+               <l>Or do believe, I ſhall contrary be;</l>
+               <l>As I tranſgreſs this Rule, or it neglect</l>
+               <l>God I diſhonour, and his Law reject:</l>
+               <l>But tho' I ſhould miſtake, if but ſincere,</l>
+               <l>God would at length the Truth unto me clear.</l>
+               <l>For where's the Man that never yet has been</l>
+               <l>Deceiv'd in what he'as thought he'as heard or ſeen?</l>
+               <l>Let him begin the firſt to cenſure this,</l>
+               <l>And when that's done, to prove it is amiſs.</l>
+               <l>But <hi>Judah</hi>'s Prophet, in that he preferr'd</l>
+               <l>Another's Senſe before his own, he err'd,</l>
+               <l>And for that Fault came into th' Lion's Pow'r,</l>
+               <l>Who did his Body kill, tho' not devour;</l>
+               <l>For that was left, that he might ever be</l>
+               <l>A great Example to Poſterity.</l>
+               <l>So that if we in this Affair tranſgreſs,</l>
+               <l>Our Fault is greater, and Excuſe is leſs,</l>
+               <l>If leſs can be: becauſe he could not know</l>
+               <l>This grand Example which the Scriptures ſhow.</l>
+               <pb n="24" facs="tcp:48993:16"/>
+               <l> Hence that blind Notion, which ſo many git,</l>
+               <l>That Prophets unto Prophets ſhould ſubmit,</l>
+               <l>Is wrong; if then it was, as now in uſe,</l>
+               <l>We ſee't corrected for a great Abuſe;</l>
+               <l>Yea puniſhed with great Severity,</l>
+               <l>Which ſhews it now, as well as then, a Lye:</l>
+               <l>Obſerve the Story, and apply it well,</l>
+               <l>For with our Caſe it runneth parallel.</l>
+            </lg>
+            <lg>
+               <l>For had he only my laſt Letter meant,</l>
+               <l>Or with ſome Fact had bounded his intent,</l>
+               <l>His Words, tho' hard, might yet have been receiv'd,</l>
+               <l>As flowing from an Heart that's only griev'd;</l>
+               <l>But not content that to condemn alone,</l>
+               <l>He will his Judgment fix on all I've done:</l>
+               <l>In this he is too bold, he ſoars too high,</l>
+               <l>His Judgment as unjuſt I muſt deny:</l>
+               <l>I muſt not fear his Threatning, nor receive</l>
+               <l>His ſeeming Kindneſs, nor his Prayers believe.</l>
+               <l>For if he cordial be, I truly find</l>
+               <l>He ſhews to me but his miſtaken Mind.</l>
+               <l>For God hath in this Matter ſaid to me,</l>
+               <l>
+                  <hi>Go not to them, let them return to thee.</hi>
+               </l>
+               <l>And tho' you may this diſregard and ſlight,</l>
+               <l>I know that in his Fear and Dread I write,</l>
+               <l>Whoſe Voice I muſt obey, and Pow'r reſpect,</l>
+               <l>'Gainſt every one that ſhall the ſame reject;</l>
+               <l>In God's Command I muſt againſt him ſtand,</l>
+               <l>And all of his Opinion in the Land.</l>
+            </lg>
+            <lg>
+               <l>For I'll affirm, that God did me concern</l>
+               <l>In truth, by gen'ral Cautions to forewarn</l>
+               <l>Friends of the danger of Formality,</l>
+               <l>Which he long ſince ſhew'd me approaching nigh;</l>
+               <pb n="25" facs="tcp:48993:16"/>
+               <l> The likeneſs of the Truth to be the thing</l>
+               <l>That was inſtead of Truth like up to ſpring.</l>
+               <l>In this he ſhew'd me was the Myſtery</l>
+               <l>Of that which Scripture calls <hi>Iniquity.</hi>
+               </l>
+               <l>On that Account, <hi>Beware o'th' Form,</hi> was mine</l>
+               <l>Advice in Meetings, where the Pow'r Divine</l>
+               <l>Was wanting; But the Words, <hi>Beware o'th' Form,</hi>
+               </l>
+               <l>Was the occaſion that hath made you ſtorm</l>
+               <l>At me, with cens'ring and unſeemly Words,</l>
+               <l>That neither Truth nor Righteouſneſs affords.</l>
+               <l>For this you have been ſpreading in my Way</l>
+               <l>The Snare of ill Report unto this Day:</l>
+               <l>And yet, as if you were reſolved ſtill</l>
+               <l>The Meaſure of this Miſchief up to fill,</l>
+               <l>By publick ways according to your Pow'r,</l>
+               <l>My Name to injure, and my Life devour;</l>
+               <l>Of which, I muſt confeſs, I'm not afraid,</l>
+               <l>For all that can by you be done or ſaid.</l>
+               <l>Yet for your good, I would have you take heed,</l>
+               <l>That you in ill no further might proceed:</l>
+               <l>Leſt in your Wills you make the Prophets die,</l>
+               <l>Whilſt you their Tombs do ſeem to beautifie.</l>
+               <l>For in the Form that Truth appeareth in,</l>
+               <l>At laſt muſt be reveal'd the Man of Sin.</l>
+               <l>This muſt be either granted or deny'd;</l>
+               <l>If granted, why are you diſſatisfy'd</l>
+               <l>With my kind Admonition to beware</l>
+               <l>Of what you may be, or in danger are?</l>
+               <l>If you deny't, it's evident to me,</l>
+               <l>You in the Danger more intangled be.</l>
+               <l>To be in Danger and yet reſt ſecure,</l>
+               <l>Makes Danger greater, and the Snare more ſure;</l>
+               <l>For thoſe that of their Danger knowledge have,</l>
+               <l>Some means perhaps may uſe themſelves to ſave;</l>
+               <pb n="26" facs="tcp:48993:17"/>
+               <l> But thoſe that are in Peril not aware,</l>
+               <l>Before the Hazard's known, they'r caught i'th' Snare.</l>
+               <l>Still their Condition's worſe, who do reject</l>
+               <l>Good Counſel given them, and diſreſpect</l>
+               <l>Their faithful Monitors, yea them abuſe</l>
+               <l>For it, as well as their Advice refuſe;</l>
+               <l>And moſtly this the Prophets true have found</l>
+               <l>In every Generation to abound:</l>
+               <l>And as the Wiſe Man ſaid, <hi>There's nothing new,</hi>
+               </l>
+               <l>So in our Age this Caſe is found too true.</l>
+               <l>But to the Matter to return again:</l>
+               <l>If you deny the Danger, it is plain</l>
+               <l>You have not known the Man of Sin as yet,</l>
+               <l>I'th' Temple of God as a God to ſit:</l>
+               <l>Nor have you known him out of Heaven caſt,</l>
+               <l>Which is a Work that muſt be done at laſt:</l>
+               <l>For had you ſeen or ſcap'd the Danger here,</l>
+               <l>You'd ſeen't ſo great, all might a Caution bear;</l>
+               <l>He's firſt caſt out as Evil, this hath been</l>
+               <l>In every Reformation truly ſeen,</l>
+               <l>At laſt like good he is forth to be caſt,</l>
+               <l>No Reformation yet this Act hath paſt.</l>
+               <l>A Murderer to give up to be ſlain</l>
+               <l>To a juſt Law, no Myſtery doth contain;</l>
+               <l>For 'tis decreed, he that takes Life away</l>
+               <l>In Malice, for that Fact his Life muſt pay.</l>
+               <l>All this is but according to the Law,</l>
+               <l>And 'tis but juſt that we the ſame ſhould do.</l>
+               <l>And 'tis but juſt that we the ſame ſhould do.</l>
+               <l>But when we offer up the Good, 'tis clear,</l>
+               <l>In this great Act a Myſtery doth appear;</l>
+               <l>When God again requireth us to give</l>
+               <l>That which we truly did from him receive;</l>
+               <l>As this is offer'd up to him again,</l>
+               <l>We Nothing are, and he doth All remain:</l>
+               <pb n="27" facs="tcp:48993:17"/>
+               <l> When what we had is back unto him given</l>
+               <l>That did beſtow't, our Hope's only in Heaven;</l>
+               <l>Our Converſation's there, and then the Lord</l>
+               <l>We may expect will graciouſly afford</l>
+               <l>Whate'er we need; that we may learn thereby</l>
+               <l>Not on our ſelves, but on him to relie:</l>
+               <l>When <hi>Iſaac</hi> muſt be our free Sacrifice,</l>
+               <l>'Ere we can be obedient, true, and wiſe;</l>
+               <l>In giving up, or holding back the Hand,</l>
+               <l>Doth what is rightly call'd a Myſt'ry ſtand.</l>
+               <l>If we give up, we plainly come to ſee,</l>
+               <l>Chriſt both the bottom and the Top muſt be:</l>
+               <l>And that the pure in Heart only poſſeſs</l>
+               <l>True Knowledge of the Myſt'ry of Godlineſs:</l>
+               <l>Such alſo find what doth a Chriſtian make,</l>
+               <l>Is that of which no other can partake.</l>
+               <l>As this perceived is, ſuch ceaſe to ſtrive</l>
+               <l>For what can't make, nor keep their Souls alive.</l>
+               <l>They now endeavour in each Mind to raiſe</l>
+               <l>The love of Truth, that ſuch may truly praiſe</l>
+               <l>The Works of God, as he appears within</l>
+               <l>To lead unto himſelf deſtroying Sin.</l>
+               <l>This Work can no Man for another do,</l>
+               <l>Nor can one Man God for another know.</l>
+               <l>Him I muſt know my ſelf, if known at all</l>
+               <l>Me to redeem, and bring out of the Fall:</l>
+               <l>Him I muſt fear or love, if him I know,</l>
+               <l>Or be enabl'd his Commands to do:</l>
+               <l>For if I love him not, I cannot keep</l>
+               <l>The Precepts appertaining to his Sheep;</l>
+               <l>Nor, if his Fear or Love's not in me rais'd,</l>
+               <l>Can I perform an Act by which he's prais'd.</l>
+               <l>But if in me his Fear or Love doth ſtand,</l>
+               <l>I ſhall obedient be to his Command.</l>
+               <pb n="28" facs="tcp:48993:18"/>
+               <l> This Holy Fear Man's Precept cannot teach,</l>
+               <l>No outward Rule this high Command can reach.</l>
+               <l>For God to know in Chriſt's Eternal Life,</l>
+               <l>It cometh not by Form, nor ſtands in ſtrife.</l>
+               <l>Particulars may this great Work have ſeen,</l>
+               <l>But in a gen'ral way 't hath never been,</l>
+               <l>Nor can be known, until our Elders ſhall</l>
+               <l>Caſt down their Crowns, and let them freely fall.</l>
+               <l>Nor can they throw them down, until they've known</l>
+               <l>The offering up of <hi>Iſaac,</hi> as is ſhown;</l>
+               <l>Which cannot be, till't can be truly ſaid,</l>
+               <l>That God is All, and they as Nothing made:</l>
+               <l>Till this is known, as it hath ever been,</l>
+               <l>Diviſion will ſucceſſively be ſeen.</l>
+               <l>For God will turn, and overturn again,</l>
+               <l>Until He come, whoſe right it is to reign.</l>
+               <l>But ſince we read, and likewiſe often hear,</l>
+               <l>Of Sin there is a Myſt'ry to appear;</l>
+               <l>We ſhould not think it in what's ſimply evil,</l>
+               <l>In that there is no Myſt'ry of the Devil.</l>
+               <l>For into this he leads, as to his own;</l>
+               <l>Here he is ill, and this his ill is known.</l>
+               <l>In this there is no Myſt'ry of Sin,</l>
+               <l>For't plainly wicked is, and ſo hath bin;</l>
+               <l>Herein he is not chang'd from Sins beginning,</l>
+               <l>Sin added unto Sin is ſtill but ſinning.</l>
+               <l>This he brings forth, as he's the Root of Evil,</l>
+               <l>And in this Work he's properly a Devil.</l>
+            </lg>
+            <lg>
+               <l>But he can change his Blackneſs into White,</l>
+               <l>Appearing as an Angel of the Light;</l>
+               <l>And then like Truth he will direct unto</l>
+               <l>Such Acts as God commanded we ſhould do.</l>
+               <pb n="29" facs="tcp:48993:18"/>
+               <l> We ſeveral Preſidents might here produce,</l>
+               <l>Of which we ſhall the moſt familiar chuſe.</l>
+               <l>The <hi>Phariſees</hi> gave Alms, the Act was good,</l>
+               <l>And it as a Command they underſtood</l>
+               <l>Of God to help the Poor: But they were found</l>
+               <l>To give Alms chiefly from another ground:</l>
+               <l>Before they gave, the Trumpet's Sound was heard,</l>
+               <l>And this was done to purchaſe the Reward</l>
+               <l>Of Praiſe; herein they did not rightly do;</l>
+               <l>For th' Act being good prevented not the Woe</l>
+               <l>Pronounc'd by him that was the Truth, and knew</l>
+               <l>Tho' th' Act was good, their Spirit was not true.</l>
+               <l>In worſhip and religious Exerciſe,</l>
+               <l>In outward Points what ſeemed to ſuffice</l>
+               <l>For giving God his due, they did practiſe;</l>
+               <l>And did in making Converts moſt tranſcend;</l>
+               <l>For Sea and Land they compaſs'd for that End.</l>
+               <l>Thus ſeem'd they in external things exact,</l>
+               <l>And could not touched be for any Fact;</l>
+               <l>Yet as their chief Deſign was to appear</l>
+               <l>Blameleſs in outward things, they termed were</l>
+               <l>By Chriſt, Sepulchres fill'd with Rottenneſs,</l>
+               <l>Garniſh'd and cover'd with the fineſt Dreſs.</l>
+               <l>In this they lookt like Good and not like Evil,</l>
+               <l>And yet by truth were found as of the Devil.</l>
+               <l>Their outſide was not blam'd; it was their Sin,</l>
+               <l>That they did not the Work i'th' Heart begin;</l>
+               <l>Nor for the inſide took ſuch wholſome Care,</l>
+               <l>To make it like the outſide clean and fair:</l>
+               <l>For had they wiſely made their inſide clean</l>
+               <l>At firſt, their outſide would as fair have been.</l>
+               <l>And what was ſaid to th' <hi>Phariſees</hi> of old</l>
+               <l>Unto ſuch like at all times may be told.</l>
+               <pb n="30" facs="tcp:48993:19"/>
+               <l> But if objected, this was under th' Law,</l>
+               <l>And nought to them that do the Goſpel know.</l>
+               <l>We anſwer, 'tis as much in this our Day</l>
+               <l>As 'twas in by-paſt Ages every way:</l>
+               <l>For when the Devil can no longer keep in Sin,</l>
+               <l>In likeneſs of the Truth he always creepeth in,</l>
+               <l>In ev'ry Age, yea, and in ev'ry Nation,</l>
+               <l>Where any thing of zealous Reformation</l>
+               <l>Was well begun, to be advanced on</l>
+               <l>Againſt the evil Works that he had done.</l>
+               <l>'Tis true, he this reſiſts with all his Pow'r,</l>
+               <l>At firſt Appearance, and would all devour</l>
+               <l>That him withſtand in his pernicious Way:</l>
+               <l>But when the Pow'rs too great for him to ſtay</l>
+               <l>The Reformation, nay, it ſtill proceeds</l>
+               <l>Againſt his Force, and Wrath, and Evil Deeds.</l>
+               <l>Then there's no hope for him to keep his Ground,</l>
+               <l>By doing that, which ſtill is evil found;</l>
+               <l>And doubtleſs, if he had no other Way,</l>
+               <l>His Kingdom might have ended e'er this Day.</l>
+               <l>For he has often been caſt forth, as Evil,</l>
+               <l>By th' Pow'r of God in Chriſt, which doth the Devil</l>
+               <l>Deſtroy in th' Heart and Soul, and caſt him out,</l>
+               <l>Yea, and, as ſinful, treads him under Foot:</l>
+               <l>And, when caſt forth, he muſt without remain,</l>
+               <l>Except by Craft he can return again:</l>
+               <l>For he can ne'er re-enter, 'tis confeſt,</l>
+               <l>In the ſame Hue wherein he's diſpoſſeſt;</l>
+               <l>For there the Mind is chang'd, the Houſe is ſwept,</l>
+               <l>His Goods are ſpoil'd, and he hath nothing left</l>
+               <l>Which he can call his own, or come unto</l>
+               <l>Therein his Helliſh Wrath or Pow'r to ſhow.</l>
+               <l>Here he's dethron'd, and now no Pow'r hath</l>
+               <l>Man to moleſt, or trouble in his Wrath.</l>
+               <pb n="31" facs="tcp:48993:19"/>
+               <l> For with a Sword he'as got a deadly Wound,</l>
+               <l>And Marks thereof are on that Body found;</l>
+               <l>He as an Evil Spirit is caſt out,</l>
+               <l>And like as ſuch he rangeth round about,</l>
+               <l>In all dry places ſeeking after reſt,</l>
+               <l>But none can find, whilſt he is diſpoſeſt:</l>
+               <l>Therefore reſolveth to return, becauſe</l>
+               <l>If he abide without, he ſurely knows</l>
+               <l>That Torment, which ſhall be his final Doom,</l>
+               <l>Before the time is like on him to come.</l>
+               <l>This to put off at preſent he'll aſſay,</l>
+               <l>Not by an evil, but a Truth-like way.</l>
+               <l>For as the Houſe is cleanſed, he muſt hide</l>
+               <l>His Filth, and enter lik't, or be deſcry'd.</l>
+               <l>But if prevailing he like Truth get in,</l>
+               <l>Their laſt State's worſe than when they did begin.</l>
+               <l>And of all Reformations, ne'er was one,</l>
+               <l>But was by this Device prevail'd upon:</l>
+               <l>By which he has kept up his War and Strife</l>
+               <l>For Forms and Rules, that never could give Life.</l>
+               <l>He comes not now as with a ruſhing Sound,</l>
+               <l>But rather like one ſpeaking out o'th' Ground;</l>
+               <l>Beſpeaking Peace in the moſt humble wiſe,</l>
+               <l>That his Deceit and Cunning can deviſe,</l>
+               <l>Like <hi>Gibeonites</hi> appointed to be ſlain,</l>
+               <l>But by their Craſt did ſtill i'th' Land remain;</l>
+               <l>And tho' they were to ſervile Labours put,</l>
+               <l>Yet from God's Service were not wholly ſhut.</l>
+               <l>Thus to re-enter, and regain his place,</l>
+               <l>He'll change his Voice, his Habit, and his Face:</l>
+               <l>He's ſtill a Foe, but looketh like a Friend</l>
+               <l>That is adviſing unto ſome good end:</l>
+               <l>This way he Man beguil'd in the Beginning,</l>
+               <l>When he did teach him firſt the way of Sinning:</l>
+               <pb n="32" facs="tcp:48993:20"/>
+               <l> For having then in Man no place or part,</l>
+               <l>By Force he could not enter, but by Art:</l>
+               <l>But by his Craft he enter'd in, and then</l>
+               <l>Of an upright he made a ſinful Man.</l>
+               <l>Again he'll celebrate the righteous Praiſe</l>
+               <l>Of thoſe he caus'd to fall in former Days.</l>
+               <l>Like as he taught the <hi>Jews</hi> to beautifie</l>
+               <l>The Prophet's Tombs, and make their Maſter die.</l>
+               <l>Again he'll over-value every thing</l>
+               <l>That's outward, and from Truth did ſeem to ſpring;</l>
+               <l>As they that did to th' Brazen Serpent give</l>
+               <l>That undue Honour, which we may perceive</l>
+               <l>Was by th' inſpir'd Penman on record</l>
+               <l>Left, that to us Inſtruction't might afford.</l>
+               <l>Here Forms of Worſhip he will magnifie</l>
+               <l>And 'bove their Value will extol them high;</l>
+               <l>And this he doth that he may make a Snare</l>
+               <l>Of what God may permit, or did prepare</l>
+               <l>For good to Man, that he might fitted be</l>
+               <l>To wait and hope for the great Myſtery</l>
+               <l>Of God in Chriſt, which fully doth perfect</l>
+               <l>All Laws and Forms added in that reſpect.</l>
+               <l>Of this we have a Figure in the <hi>Jew,</hi>
+               </l>
+               <l>Whoſe Form and Law by God ordain'd were true,</l>
+               <l>Yet were they added only to abide</l>
+               <l>Till Chriſt did come, (this cannot be deny'd)</l>
+               <l>For whom they ſhould have waited in its uſe,</l>
+               <l>Then ſhould they have committed no Abuſe</l>
+               <l>Againſt their Prophets, nor againſt their Lord,</l>
+               <l>But them receiv'd, and obey'd his Word.</l>
+               <l>But when their Form they valued too high,</l>
+               <l>Thro' ſubtle Workings of the Enemy,</l>
+               <l>They could not ſee it was to have an end,</l>
+               <l>So evil did, whilſt they did it defend;</l>
+               <pb n="33" facs="tcp:48993:20"/>
+               <l> By keeping it, they did oppoſe his Will,</l>
+               <l>Who gave it, and did come it to fulfill.</l>
+               <l>Thus the true Prophets they could not receive,</l>
+               <l>Nor in their Saviour when he came believe.</l>
+               <l>Thus that which was for a good End brought in,</l>
+               <l>Became to them a Vail, a Snare and Ginn;</l>
+               <l>And as it was in this Form to the <hi>Jew,</hi>
+               </l>
+               <l>It hath or may be in all Forms that's true.</l>
+               <l>For ev'ry Form that's true has the like uſe,</l>
+               <l>And may therefore meet with the like Abuſe;</l>
+               <l>And Forms have all been true, that did commence,</l>
+               <l>According to God's powerful Influence</l>
+               <l>Upon the Minds of Men to Reformation,</l>
+               <l>In every Age and every Generation.</l>
+               <l>For ſince that Day and Time the outward Court</l>
+               <l>Was left unmet, there many might reſort</l>
+               <l>To worſhip God in various Forms or Ways,</l>
+               <l>As Truth appeared to them in their Days:</l>
+               <l>But all that found acceptance did agree</l>
+               <l>In this one Point, to wit, Sincerity.</l>
+               <l>For ne'er was Form that could acceptance find</l>
+               <l>Where there did want Sincerity i'th' Mind.</l>
+               <l>But where the Mind being right gives God his due,</l>
+               <l>Forms hinder not that morally are true;</l>
+               <l>Nay they may help, and introduced were</l>
+               <l>To ſtay the Mind, and check Sin's full career</l>
+               <l>They can't perfect the Mind, they may prepare</l>
+               <l>In a right uſe to wait for Chriſt the Heir,</l>
+               <l>To perfect Man, and into Heaven guide;</l>
+               <l>This only to the Seed can be apply'd,</l>
+               <l>Which unto Man of old was promiſed,</l>
+               <l>That he alone ſhould bruiſe the Serpent's Head.</l>
+               <l>This Forms cannot, for they did but begin,</l>
+               <l>Or added was, when Man was found in Sin;</l>
+               <pb n="34" facs="tcp:48993:21"/>
+               <l> And what was not before Tranſgreſſion ſhown</l>
+               <l>Muſt be fulfill'd before its end is known;</l>
+               <l>Nor can they be fulfill'd, but as we find</l>
+               <l>Chriſt by his Spirit to conduct our Mind.</l>
+               <l>Thus as there's divers Forms, yet as they tend</l>
+               <l>To Holineſs, they ſeem to have an end.</l>
+               <l>And therefore as they in this Caſe agree,</l>
+               <l>Men never ſhould about them angry be,</l>
+               <l>Nor ſtrive to wrath or envy, which is beſt,</l>
+               <l>Or which ſhould be preferr'd above the reſt.</l>
+               <l>Of every one there may have been ſome uſe,</l>
+               <l>And of the beſt there may be an Abuſe;</l>
+               <l>If here, as in the outward Court, we ſtay,</l>
+               <l>The <hi>Gentile</hi> State can never paſs away;</l>
+               <l>For th' outward Court is not (tho' ne'er ſo true)</l>
+               <l>The reſting-place of the believing <hi>Jew.</hi>
+               </l>
+               <l>Thus, as above, ſo here they 'gree again,</l>
+               <l>That none by Forms Perfection can attain;</l>
+               <l>So whilſt about them Men contend and ſtrive,</l>
+               <l>The Devil doth his Kingdom keep alive.</l>
+               <l>That there are divers Forms it doth appear,</l>
+               <l>But which of them excels is not ſo clear:</l>
+               <l>Well, if one better than another bee,</l>
+               <l>It is with Truth as th' later doth agree;</l>
+               <l>And ſince that Reformation is begun,</l>
+               <l>We ſhould not reſt until the Work be done.</l>
+               <l>For of Chriſt's Government there is no end:</l>
+               <l>To its increaſe then we ſhould all attend.</l>
+               <l>Yet what Form's beſt, to me may not be beſt,</l>
+               <l>Unleſs I ſee it better than the reſt:</l>
+               <l>Thus what I judge is beſt, is beſt to me,</l>
+               <l>Until I can that which is better ſee.</l>
+               <l>For how ſhould I its Excellence confeſs,</l>
+               <l>Except I do perceive a betterneſs?</l>
+               <pb n="35" facs="tcp:48993:21"/>
+               <l> And if my Conſcience can't be ſatisfy'd</l>
+               <l>That it excels, I'm not t'obſerve it ty'd;</l>
+               <l>Should I obſerve what I do not believe,</l>
+               <l>I cannot pleaſe my God, but may him grieve.</l>
+               <l>For if't appear not right, I do not find</l>
+               <l>I can approve on't with an upright Mind;</l>
+               <l>And where an Act doth want Sincerity,</l>
+               <l>With God that Act's no better than a Lye.</l>
+               <l>'Tis true, true Worſhip in the Truth doth ſtand,</l>
+               <l>In which no Form nor Likeneſs doth command.</l>
+               <l>But this I cannot know till it is ſhown,</l>
+               <l>To follow my Belief till that is known</l>
+               <l>Unto the Truth, in me is nearer much,</l>
+               <l>Than what I know not, nor believe is ſuch,</l>
+               <l>Provided I'm ſincere, and waits to know</l>
+               <l>What God is pleaſed further to beſtow.</l>
+               <l>For muſt be faithful firſt to what we ſee,</l>
+               <l>Before from God more will revealed be;</l>
+               <l>For if not faithful to what we believe,</l>
+               <l>We are not fit what's better to receive:</l>
+               <l>And if in things below we are not juſt,</l>
+               <l>With things above God never will us truſt.</l>
+               <l>In this Caſe then what we believe as true,</l>
+               <l>We're bound unto it, ſomething like the <hi>Jew</hi>
+               </l>
+               <l>To that great Form, which at Mount <hi>Sina</hi> came,</l>
+               <l>Whoſe Law was ſpoke from an amazing Flame</l>
+               <l>By God, who did the Heart affect with Fear,</l>
+               <l>Thro' what the Eyes did ſee and Ears did hear.</l>
+               <l>But tho' this Form was uſher'd in with Pow'r,</l>
+               <l>Like Forms that are, it was not to endure:</l>
+               <l>And as th' Obſervers it could ne'er perfect,</l>
+               <l>They ſhould have had for it a like reſpect;</l>
+               <l>They might have priz'd it, as the beſt they knew,</l>
+               <l>And yet left room for better to enſue;</l>
+               <pb n="36" facs="tcp:48993:22"/>
+               <l> According to his Mind, that gave that Law,</l>
+               <l>Which they obliged were t'obſerve and do,</l>
+               <l>As God's Command to them, and that until</l>
+               <l>The fulneſs of Time came i'th' Father's Will,</l>
+               <l>To ſend his Son, who from his Boſom came</l>
+               <l>It to accompliſh, and remove the ſame.</l>
+               <l>It was not to perfect, but to prepare</l>
+               <l>Like Forms that are to wait for the true Heir,</l>
+               <l>That was, and is, and alſo is to come</l>
+               <l>Into Men's Hearts, for whom they ſhould make room;</l>
+               <l>And this fullneſs of time continues ſtill,</l>
+               <l>To all that wait to know the Father's Will:</l>
+               <l>For Chriſt, Heir to the Prophets and the Law,</l>
+               <l>And of all Good in Forms that Man can know:</l>
+               <l>For God unto him did this Witneſs bear,</l>
+               <l>That he was Heir, and that all ſhould him hear,</l>
+               <l>But ſuch as think to ſerve God by an outward Law,</l>
+               <l>As yet the Voice of Chriſt they do not truly know;</l>
+               <l>For where th' Object o'th' Mind's an outward Rule,</l>
+               <l>Such are not com'd into Chriſt Jeſus School:</l>
+               <l>For all that hear, and's taught of him, inherit</l>
+               <l>The Subſtance, by the Conduct of his Spirit:</l>
+               <l>As he to all, whoſe Souls do truly live,</l>
+               <l>Entrance to God doth by one Spirit give;</l>
+               <l>Not by one outward Way or Form, for then</l>
+               <l>It ſhould have been deliver'd to all Men.</l>
+               <l>But no ſuch Form appeareth to be given</l>
+               <l>By our Redeemer, tho' he came from Heaven.</l>
+               <l>That Form to end, and further to make known</l>
+               <l>A greater Good than had before been ſhown;</l>
+               <l>Which, if intended by external Ways,</l>
+               <l>Inſtead of larger in our later Days</l>
+               <l>Had leſſer been than unto <hi>Iſrael</hi> was,</l>
+               <l>For theirs did all ſucceeding Forms ſurpaſs.</l>
+               <pb n="37" facs="tcp:48993:22"/>
+               <l> Such Certainty in Forms doth not appear</l>
+               <l>Now to Mankind; as we (alaſs) may hear,</l>
+               <l>By thoſe Contentions in our Saviour's Mind,</l>
+               <l>What Form he did intend to leave behind.</l>
+               <l>For God to <hi>Iſrael</hi> did their Form afford</l>
+               <l>Immediately from Heaven by his Word;</l>
+               <l>And this being ſure, (for Scripture proves the ſame)</l>
+               <l>Is more than any modern Form can claim.</l>
+               <l>Yet as 'twas given in peculiar wiſe,</l>
+               <l>To them, it after gave a diſmal Riſe</l>
+               <l>To that grand Hatred in their Separation</l>
+               <l>Made betwixt them and every other Nation.</l>
+               <l>But as't became thus a Partition-Wall,</l>
+               <l>God took it down to ſhew his Love to all.</l>
+               <l>Now if to ſhew that Love, he had deſign'd</l>
+               <l>One Form to have preſcribed to Mankind,</l>
+               <l>That with one Sacred Form he might remove</l>
+               <l>The ground of Striſe, and introduce true Love;</l>
+               <l>'Twas requiſite that Form ſhould handed be</l>
+               <l>From Heaven with undoubted Certainty,</l>
+               <l>Like <hi>Iſrael</hi>'s, with that Majeſty convey'd,</l>
+               <l>That ev'ry Man muſt have the ſame obey'd.</l>
+               <l>For ſure we are, if God did that intend,</l>
+               <l>His Pow'r was mighty to command the End.</l>
+               <l>But that he did not this, is very plain</l>
+               <l>From thoſe great Diff'rences which yet remain</l>
+               <l>Amongſt Mankind about that outward Way</l>
+               <l>Which God as a Command on Man did lay.</l>
+               <l>Now if the Whole receiv'd not ſuch Command,</l>
+               <l>As we from certain Grounds do underſtand,</l>
+               <l>It's againſt Truth for any to ſuppoſe</l>
+               <l>That God a part of Men again has choſe,</l>
+               <l>To whom he an undoubted Form might give,</l>
+               <l>By which all Mankind ſhould be bound to live.</l>
+               <pb n="38" facs="tcp:48993:23"/>
+               <l> This, to conclude, to Man is the broad Way,</l>
+               <l>Which doth the Ground of greateſt Errors lay.</l>
+               <l>Firſt, as to God, his Love ſuch narrow ſtill,</l>
+               <l>Contrary unto his revealed Will:</l>
+               <l>Such alſo on his Wiſdom do reflect,</l>
+               <l>As no good Builder, or wiſe Architect,</l>
+               <l>To take a Building down, becauſe he found</l>
+               <l>A fault in it, or that it was not ſound;</l>
+               <l>And yet a ſecond like 't erects again,</l>
+               <l>In which that Fault or Weakneſs doth remain:</l>
+               <l>On Mankind alſo has as ill Effect;</l>
+               <l>For 'tis the Ground of all the Diſreſpect</l>
+               <l>They ſhew each other on Religion's ſcore,</l>
+               <l>Beſides the Evil that is ſhew'd before.</l>
+               <l>For our believing, like unto the <hi>Jew,</hi>
+               </l>
+               <l>There's but one outward Form that can be true,</l>
+               <l>Gives ground for ev'ry People to conceive</l>
+               <l>That is the Way which they themſelves believe.</l>
+               <l>This is the Cauſe of Envy and of Pride,</l>
+               <l>As in the <hi>Jewiſh</hi> Worſhip hath been try'd.</l>
+               <l>God's Kingdom this doth ſhut, and there in vain</l>
+               <l>Many attempt an Entrance to obtain.</l>
+               <l>This Error doth i' th' Univerſe abound;</l>
+               <l>It is too much in all Religions found:</l>
+               <l>And this Miſtake the Devil makes the Cauſe</l>
+               <l>That in Religion Men on Men impoſe.</l>
+               <l>For Forms, we daily ſee, continue ſtill</l>
+               <l>To be the Ground of Hatred and Ill-will,</l>
+               <l>As Men about them ſtrive and do contend,</l>
+               <l>Until their Peace and Fellowſhip they rend;</l>
+               <l>Yea, oft proceed in their litigious Jars,</l>
+               <l>Till Wrath exerts it ſelf in open Wars;</l>
+               <l>And there they ſeek each others Blood to ſpill.</l>
+               <l>This contradicts our Bleſſed Saviour's Will,</l>
+               <pb n="39" facs="tcp:48993:23"/>
+               <l> Who came not to deſtroy, but Peace to ſend</l>
+               <l>And Good-will unto Men, this was his End.</l>
+               <l>What then to be his Will be ſignify'd,</l>
+               <l>As Goſpel to Mankind doth ſtill abide.</l>
+               <l>But ſome one Form alone to re-ordain,</l>
+               <l>Which Men in ſtrife about it ſhould retain,</l>
+               <l>Was to re-build what he before took down,</l>
+               <l>As in the Scripture is expreſly ſhown.</l>
+               <l>With Men ſuch Buildings do ſometimes agree,</l>
+               <l>But cannot with th' Eternal Deity.</l>
+               <l>With him all Wiſdom and all Pow'r doth dwell;</l>
+               <l>He can Effects in all their Cauſes tell;</l>
+               <l>He doth foreſee them e'er they come to paſs,</l>
+               <l>So could not be deceived in this Caſe.</l>
+               <l>From hence we may believe, he would not lay</l>
+               <l>The Ground for Envy, which to take away</l>
+               <l>He came, and Power had that to prevent;</l>
+               <l>To make it then could not be his Intent.</l>
+               <l>Now if he did no more one Form erect,</l>
+               <l>Unto all Forms he hath a like Reſpect,</l>
+               <l>As Forms directing unto what is Good,</l>
+               <l>In which Senſe this is to be underſtood:</l>
+               <l>And this to us doth certain Truth appear,</l>
+               <l>Since only they're accepted that's ſincere.</l>
+               <l>This Doctrine is not ſtrange, nor is it new;</l>
+               <l>For it hath been in ev'ry Age as true:</l>
+               <l>It's not more Truth, becauſe it is more ſeen;</l>
+               <l>For what's a Truth, as true has always been:</l>
+               <l>Yea, even in the <hi>Jewiſh</hi> State at height,</l>
+               <l>Their greater ne'er condemn'd a leſſer Light:</l>
+               <l>For ev'ry Man that feared God, and wrought</l>
+               <l>True Righteouſneſs, in ev'ry Age throughout</l>
+               <l>The World, Acceptance gain'd, as <hi>Peter</hi> taught.</l>
+               <pb n="40" facs="tcp:48993:24"/>
+               <l> But God with his own Form a Fault did find,</l>
+               <l>In that it never could perfect the Mind;</l>
+               <l>And as that Form could not the Mind perfect,</l>
+               <l>No other Form can do't; in that reſpect</l>
+               <l>The taking down of that doth plainly ſhow</l>
+               <l>That all ſhould wait a greater Truth to know.</l>
+               <l>For beſt of Forms could only regulate</l>
+               <l>The outward Man, they reach no higher State;</l>
+               <l>The Branch they may cut off, as't ſpringeth out,</l>
+               <l>But have no pow'r to reach unto the Root;</l>
+               <l>And tho' thus far they may be termed Good,</l>
+               <l>As outward evil is by them withſtood,</l>
+               <l>Yet muſt there a more ſublime Way be known,</l>
+               <l>As by our Saviour's Words is plainly ſhown;</l>
+               <l>Who told us, <hi>That except we're born again,</hi>
+               </l>
+               <l>
+                  <hi>We in the Kingdom can no Place obtain.</hi>
+               </l>
+               <l>No outward Guides can e'er compleat this Work;</l>
+               <l>For under that an Hypocrite may lurk:</l>
+               <l>Like Truth the Devil did get into thoſe</l>
+               <l>Who had God's Form, but did his Pow'r oppoſe.</l>
+               <l>For ne'er was Form, tho' 'twas exactly Good,</l>
+               <l>But hath at laſt the Pow'r of Truth withſtood;</l>
+               <l>Not from their Nature, nor from their true Uſe,</l>
+               <l>But from their Weakneſs, and their blind Abuſe.</l>
+               <l>Thus outward Rules, as ſet up to ſerve God,</l>
+               <l>Tho' they may diſſer in their Form and Mode,</l>
+               <l>All in the Ground agree, alike in kind,</l>
+               <l>As they are made a Guide unto the Mind,</l>
+               <l>The higheſt State ſuch can but Legal find.</l>
+               <l>So then their proper Uſe in them's to wait,</l>
+               <l>To know the Goſpel and the Legal State:</l>
+               <l>Tho all God's Dealings we may Goſpel call,</l>
+               <l>Which he doth uſe to bring Man out o' th' Fall.</l>
+               <pb n="41" facs="tcp:48993:24"/>
+               <l> For what God addeth Man for to reſtore</l>
+               <l>That we may put upon the Goſpel Score;</l>
+               <l>And thus the Law the Goſpel did begin,</l>
+               <l>But Goſpel is o'th' Law a finiſhing.</l>
+               <l>For thoſe Diſtinctions are to us as true</l>
+               <l>As they were unto <hi>Iſrael</hi> or the <hi>Jew;</hi>
+               </l>
+               <l>Since what was done i'th' <hi>Jewiſh</hi> Diſpenſation,</l>
+               <l>As Figures unto us they have relation.</l>
+               <l>For what God did that was not to remain,</l>
+               <l>It is the Subſtance that ſuch Acts contain,</l>
+               <l>Which we ſhould look for, and inquire it out,</l>
+               <l>To find how our Salvation's brought about.</l>
+               <l>It was the Seed of <hi>Abr'am</hi> that God choſe</l>
+               <l>According to the Fleſh, and unto thoſe</l>
+               <l>He gave his Form that from Mount <hi>Sinai</hi> came;</l>
+               <l>And Chriſt came in the Fleſh to end the ſame.</l>
+               <l>For as that Form meaſur'd and ſtinted was,</l>
+               <l>It could not end until it came to paſs</l>
+               <l>The Son of God from Heaven did deſcend,</l>
+               <l>An higher way to ſhew that Form to end.</l>
+               <l>He came not to deſtroy it, but fulfill</l>
+               <l>For Righteouſneſs, that was and is his Will;</l>
+               <l>And as he did then, he doth now ſupply</l>
+               <l>The lower Rules with Rules that are more high.</l>
+               <l>His Government goes on, and doth not ceaſe,</l>
+               <l>From good to better he doth it increaſe.</l>
+               <l>Whoever finds this Truth, and in him truſt,</l>
+               <l>They bring forth in external things what's juſt:</l>
+               <l>Things ſtrictly honeſt ſuch both ſpeak and do,</l>
+               <l>Not by compulſion of an outward Law,</l>
+               <l>Nor by Conſtraint, but by a ready Mind;</l>
+               <l>For ſuch are now to Good by Love inclin'd.</l>
+               <l>This laſt Appearance doth the firſt contain;</l>
+               <l>For in the laſt the Subſtance doth remain.</l>
+               <pb n="42" facs="tcp:48993:25"/>
+               <l> God's Work with Man doth in Progreſſion run</l>
+               <l>From leſs to more, until the Work is done:</l>
+               <l>And when the Summ's computed at the laſt</l>
+               <l>It comprehends the whole of what is paſt.</l>
+               <l>This nobler way, that by our Lord was ſhown,</l>
+               <l>Was to the <hi>Jew</hi> and <hi>Gentile</hi> to be one:</l>
+               <l>And all Mankind in their whole Multitude,</l>
+               <l>He did in <hi>Jew</hi> and <hi>Gentile</hi> then include;</l>
+               <l>And of thoſe twain doth one new Body make,</l>
+               <l>As of his Law and Goſpel they partake.</l>
+               <l>The <hi>Jew</hi> as to the Fleſh he did reject,</l>
+               <l>That in the Spirit he might him elect;</l>
+               <l>And he did <hi>Abr'am</hi>'s fleſhly Seed refuſe,</l>
+               <l>That after th' Spirit he his Seed might chuſe.</l>
+               <l>Thus all vain-glorious Boaſting's laid aſide,</l>
+               <l>None may in the defective Fleſh confide;</l>
+               <l>For by Gods Spirit muſt Man's Works be try'd.</l>
+               <l>There none can on external Things relie,</l>
+               <l>That he'll to all, as to the <hi>Jew,</hi> deny.</l>
+               <l>The <hi>Jew</hi> now inward is, and ſo's his Law,</l>
+               <l>Yea and in Spirit muſt he Goſpel know</l>
+               <l>For Law, the Goſpel it doth yet precede,</l>
+               <l>That Men might Goſpel-everlaſting read.</l>
+               <l>God's Holy Law in th' Hearts of every one</l>
+               <l>The Subſtance is of what was writ in Stone;</l>
+               <l>For <hi>Moſes</hi> Law we may a Tranſcript call,</l>
+               <l>Copy'd in Stone from this Original.</l>
+               <l>Chriſt to the outward <hi>Jew</hi> i'th' Fleſh has been,</l>
+               <l>But ſo hereafter will no more be ſeen;</l>
+               <l>By them he was in that appearance ſlain,</l>
+               <l>Tho' in himſelf he alway did remain,</l>
+               <l>As now he is; of him we ought to have</l>
+               <l>Knowledge, if him we know as from the Grave</l>
+               <pb n="43" facs="tcp:48993:25"/>
+               <l> He roſe; to know Chriſt only as the <hi>Jews</hi>
+               </l>
+               <l>Is t' hear of him, yet the right Way refuſe:</l>
+               <l>To ſee him only as they did of old,</l>
+               <l>Is him and not his Myſt'ry to behold.</l>
+               <l>The outward Law was needful, good, and true,</l>
+               <l>But by miſuſe became a Vail to th' <hi>Jew,</hi>
+               </l>
+               <l>Which to this Moment doth obſcure their Mind,</l>
+               <l>Nor can't be rent away, but keeps them blind,</l>
+               <l>'Till they are turn'd to Chriſt, and know thereby</l>
+               <l>'Twas the <hi>Meſſias</hi> they did crucifie.</l>
+               <l>Chriſt came i'th' Fleſh, 'twas abſolutely good:</l>
+               <l>For without that could not be underſtood</l>
+               <l>The Myſtery, hid from the World's Foundation</l>
+               <l>In all Mankind in every Generation.</l>
+               <l>This coming alſo may a Veil be made,</l>
+               <l>Which unperceiv'd draws on a gloomy Shade</l>
+               <l>O'er moſt; as on him in a Creature-way</l>
+               <l>Men look, they know not his Eternal Day;</l>
+               <l>And whilſt Men think, he is not to be known</l>
+               <l>As ſurely now, as when to <hi>Jew</hi> was ſhown;</l>
+               <l>Or that he is not now to us ſo near,</l>
+               <l>As when he did to them i'th' Fleſh appear;</l>
+               <l>Such know him not as everlaſting King,</l>
+               <l>Nor yet as in his Death and Suffering.</l>
+               <l>Chriſt is and ever has a Myſt'ry been,</l>
+               <l>Which Vult'rous Eye as yet hath never ſeen.</l>
+               <l>Whoever finds and ſees whom they profeſs,</l>
+               <l>He is their Myſtery of Godlineſs.</l>
+               <l>He was and is their undefiled way,</l>
+               <l>In which could never walk a Beaſt of prey.</l>
+               <l>Chriſt in the Fleſh was vailed to the <hi>Jew;</hi>
+               </l>
+               <l>To know him but i'th' Fleſh's a Vail to you.</l>
+               <l>That Chriſt ſhall once be ſeen, the <hi>Jews</hi> preſume,</l>
+               <l>And you aright believe that he did come;</l>
+               <pb n="44" facs="tcp:48993:26"/>
+               <l> But whilſt you know him not t'appear within,</l>
+               <l>Both are alike concluded under Sin.</l>
+               <l>'Tis true in a good Senſe what both aſſert:</l>
+               <l>And into one new Man God will convert</l>
+               <l>Theſe two, as they breathe after Chriſt; and then</l>
+               <l>Shall know that he puts off the Vail in Men.</l>
+               <l>For all thoſe Acts, which heretofore he did,</l>
+               <l>He doth in Spirit now, tho' they are hid.</l>
+               <l>Him ſtill the legal Chriſtian doth deſpiſe;</l>
+               <l>For in the Fleſh he's ſtill a Croſs to th' Wiſe.</l>
+               <l>He in the Fleſh a Suff'rer alway was,</l>
+               <l>Since his being ſlain in Man came firſt to paſs.</l>
+               <l>Chriſt is the ſame he was in every Caſe,</l>
+               <l>Who this believes, doth a grand Truth embrace.</l>
+               <l>'Tis an authentick Truth that Chriſt is Lord,</l>
+               <l>But who ſo calls him of their own accord</l>
+               <l>Without the Holy Spirit, cannot find</l>
+               <l>The truth of what they utter in their Mind;</l>
+               <l>In what they ſay true Witneſs is not born,</l>
+               <l>Nor th' Vail yet off their Underſtanding torn.</l>
+               <l>Now that the Lord the Spirit is, was told</l>
+               <l>Unto the <hi>Jew,</hi> and true to all doth hold;</l>
+               <l>In Spirit then we muſt know Chriſt his Day,</l>
+               <l>Before the Vail in us be put away.</l>
+               <l>But we miſtake that Chriſt expect to know</l>
+               <l>As Jeſus, e'er we underſtand his Law.</l>
+               <l>The Law of God appearing in the Heart</l>
+               <l>Of his great Work in us hath the firſt part.</l>
+               <l>This the Schoolmaſter is, which us doth bring</l>
+               <l>To witneſs Chriſt in us as Lord and King.</l>
+               <l>This Holy Law in us muſt take a place,</l>
+               <l>Before we truly know what's Grace as Grace:</l>
+               <l>This is affirm'd by the Apoſtle <hi>Paul,</hi>
+               </l>
+               <l>And is (no doubt) acknowledg'd true by all:</l>
+               <pb n="45" facs="tcp:48993:26"/>
+               <l> 
+                  <hi>I was,</hi> ſaid he, <hi>without the Law alive,</hi>
+               </l>
+               <l>
+                  <hi>But when th' Commandment came, Sin did revive,</hi>
+               </l>
+               <l>
+                  <hi>And then I dy'd; was that made Death to me</hi>
+               </l>
+               <l>
+                  <hi>That was ordain'd to Life? No verily:</hi>
+               </l>
+               <l>
+                  <hi>But that Sin might as Sin be underſtood,</hi>
+               </l>
+               <l>
+                  <hi>Death was in me wrought by that which was good.</hi>
+               </l>
+               <l>This was the Law i'th' Heart, there is no doubt,</l>
+               <l>For th' Law in Stone he never was without.</l>
+               <l>Nay further ſtill, we do in Scripture find,</l>
+               <l>He names th' aforeſaid Law, that of his Mind;</l>
+               <l>Which whilſt not com'd unto, we may believe,</l>
+               <l>His Senſe of Sin and Death did not perceive,</l>
+               <l>An outward Good was to the outward <hi>Jew</hi>
+               </l>
+               <l>A Figure, to the Spiritual that is true:</l>
+               <l>The outward <hi>Jews</hi> with Slavery oppreſt,</l>
+               <l>Before they could it ſee, muſt be releaſt:</l>
+               <l>That is, they could not ſee the promis'd Land,</l>
+               <l>Whilſt ſhackled by imperious <hi>Phar'oh</hi>'s Hand;</l>
+               <l>But were, till more oppreſt, as to it dead,</l>
+               <l>Nor could they cry to be delivered.</l>
+               <l>Thus Man in Death doth never Trouble know,</l>
+               <l>He's dead to God, and alſo to his Law:</l>
+               <l>The Law's as dead to him till God revive,</l>
+               <l>Or by his Spirit make the ſame alive;</l>
+               <l>But when by God reſtor'd to Life, it hath</l>
+               <l>That Pow'r in us to manifeſt his Wrath</l>
+               <l>From Heav'n againſt our Sin, and what is Evil</l>
+               <l>Wrought in's by our malignant Foe the Devil.</l>
+               <l>For God Diviſion makes by Judgment ſure</l>
+               <l>Betwixt the Soul of Man and Satan's Pow'r;</l>
+               <l>And Man in that Diviſion doth partake</l>
+               <l>Of Sorrow truly for the Evil's ſake.</l>
+               <l>This is the Way the Father doth us draw</l>
+               <l>Unto his Son, that we his Love may know.</l>
+               <pb n="46" facs="tcp:48993:27"/>
+               <l> No other way the Righteous yet have found</l>
+               <l>That ſaving Grace might unto them abound;</l>
+               <l>And they that know not thus the Work begin,</l>
+               <l>Their Knowledge has but ſuperficial been.</l>
+               <l>Such then do well themſelves to prove and try</l>
+               <l>If they him know on whom they can relie.</l>
+               <l>Our Way th' Apoſtle here doth perſonate,</l>
+               <l>And to the Life ſets forth the troubled State;</l>
+               <l>Thus he exclaim'd; <hi>I in my Members find</hi>
+               </l>
+               <l>
+                  <hi>A Law that wars againſt that of my Mind,</hi>
+               </l>
+               <l>
+                  <hi>And takes me Captive ſore againſt my Will,</hi>
+               </l>
+               <l>
+                  <hi>By which am forc'd to do that which is ill.</hi>
+               </l>
+               <l>
+                  <hi>To what is good I readily conſent,</hi>
+               </l>
+               <l>
+                  <hi>But finds no pow'r the evil to prevent;</hi>
+               </l>
+               <l>
+                  <hi>O wretched Man! who ſhall deliver me</hi>
+               </l>
+               <l>
+                  <hi>From this body of Death and Miſery.</hi>
+               </l>
+               <l>The Law brought Wrath, the Trouble Chriſt did bring</l>
+               <l>Into his Fleſh, there to condemn the Sin,</l>
+               <l>His Soul to ſave, by which he did eſpy</l>
+               <l>Grace without Works, and could it magnifie:</l>
+               <l>The Law of God the Creature doth condemn,</l>
+               <l>But Chriſt the Grace condemns the Sin in them:</l>
+               <l>God makes his Law alive, this breaks Death's reign,</l>
+               <l>And Life we do receive by being ſlain.</l>
+               <l>Tho' all God's Dealings with us be in love,</l>
+               <l>Yet all his Acts we do not ſo approve;</l>
+               <l>For he doth kill before he giveth Life,</l>
+               <l>And in that dying there is found great Strife:</l>
+               <l>And yet this killing is to make us live;</l>
+               <l>But who in dying can that Truth perceive?</l>
+               <l>He makes us live, but ſtill we live in pain,</l>
+               <l>Becauſe the Death and Evil doth remain.</l>
+               <l>We're ſure we live, becauſe we do endure</l>
+               <l>The Senſe of Grief, which makes our living ſure.</l>
+               <pb n="47" facs="tcp:48993:27"/>
+               <l> Our Trouble now proceedeth from within,</l>
+               <l>The Cauſe of it's the Knowledge of our Sin;</l>
+               <l>And Knowledge of our Sin and ſervile Yoke,</l>
+               <l>Is from the Law which we have truly broke,</l>
+               <l>And from't we find cannot relieved be;</l>
+               <l>In this ſprings up the ſenſe of Miſery,</l>
+               <l>That fits us for the Goſpel, which is free.</l>
+               <l>Now then it is that we a Saviour want,</l>
+               <l>And do for him, as th' Hart for Water, pant.</l>
+               <l>Now we prepared are, and Chriſt begins</l>
+               <l>As Jeſus now to ſave us from our Sins;</l>
+               <l>Sin he condemns i'th' Fleſh. and Pow'r doth give</l>
+               <l>To ſerve him, that has made our Souls to live.</l>
+               <l>A Type of this God did in <hi>Iſrael</hi> ſhew,</l>
+               <l>When the <hi>Aegyptian</hi> Hoſt he overthrew</l>
+               <l>I'th' Red-Sea, and by that ſtupendious Deed</l>
+               <l>His People from their Fear and Bondage freed.</l>
+               <l>Now unto God could <hi>Iſrael</hi> ſacrifice</l>
+               <l>What <hi>Aegypt</hi> could not ſtop, tho' might deſpiſe.</l>
+               <l>Now <hi>Iſrael</hi> did rejoice, and not before,</l>
+               <l>That their Oppreſſors they ſhould ſee no more.</l>
+               <l>For now was their Deliverance atchiev'd</l>
+               <l>From ev'ry thing that had in Bondage griev'd.</l>
+               <l>By this they were ſet free from all they knew</l>
+               <l>That hindred them, God's Worſhip to purſue.</l>
+               <l>Yet ſtill before they could the Land poſſeſs,</l>
+               <l>Met various Troubles in the Wilderneſs,</l>
+               <l>Too tedious here and numerous to relate,</l>
+               <l>Which did concern them in their Servant-State.</l>
+               <l>This was to fit them, and to lay them low</l>
+               <l>In their own Eyes; that they might truly know</l>
+               <l>From God it was that now they did enjoy</l>
+               <l>The promis'd Land, for he did there deſtroy</l>
+               <pb n="48" facs="tcp:48993:28"/>
+               <l> Their Adverſaries, and ſupply'd their Want</l>
+               <l>With Houſe and Vineyard, which they did not plant;</l>
+               <l>And theſe mirac'lous Dealings did effect,</l>
+               <l>That all their Time they paid him due reſpect;</l>
+               <l>They walkt with him, magnify'd his Name,</l>
+               <l>And with loud Praiſes eccho'd forth his Fame.</l>
+               <l>But when a new Gen'ration did ariſe</l>
+               <l>The good Land to enjoy, they did not prize</l>
+               <l>It truly, nor the Mercy of the Lord,</l>
+               <l>Who to their Fathers did that Land afford:</l>
+               <l>His Law they did forſake, and quickly ſwerv'd</l>
+               <l>From God's true Worſhip, and baſe Idols ſerv'd.</l>
+               <l>All this and more, it ſeems, did come to paſs,</l>
+               <l>Becauſe not ſitted as their Fathers was.</l>
+               <l>They heard how their enſlaved Fathers groan'd</l>
+               <l>Whilſt truckling under <hi>Phar'oh</hi>'s proud Command:</l>
+               <l>This did they hear, but did not underſtand.</l>
+               <l>The Wonders God perform'd i'th' Fields of <hi>Zoan</hi>
+               </l>
+               <l>They might have heard of, but had never known.</l>
+               <l>The Fame of <hi>Phar'oh</hi>'s Hoſt might reach their Ear,</l>
+               <l>But being unſeen, it could not cauſe true Fear,</l>
+               <l>Nor bring them into Trouble, Grief, or Pain;</l>
+               <l>Nor did they know at all when they were ſlain.</l>
+               <l>They heard, but ſaw not, how God did divide</l>
+               <l>The threatning Billows, and the Channel dry'd.</l>
+               <l>They ſometimes heard of God's moſt glorious Fame</l>
+               <l>When on Mount <hi>Sina'</hi> in the fiery Flame;</l>
+               <l>But did not know and ſee him ſo appear,</l>
+               <l>And therefore wanted that true Senſe of Fear;</l>
+               <l>Nor knew the Travel through the Wilderneſs,</l>
+               <l>Which feelingly their Fathers could expreſs.</l>
+               <l>No Wonder now, if then they did decline</l>
+               <l>That Vertue, which did make their Fathers ſhine.</l>
+               <pb n="49" facs="tcp:48993:28"/>
+               <l> There was awanting that true Exerciſe,</l>
+               <l>By which God taught their Fathers to be wiſe.</l>
+               <l>For 'tis in Scripture found, if duely ſought,</l>
+               <l>True, that God's Fear in Exerciſe is taught:</l>
+               <l>Nor did he any in his Path advance,</l>
+               <l>But through deep Troubles had their Enterance:</l>
+               <l>At leaſt, none perſevered to the End,</l>
+               <l>But were on God thus fitted to depend.</l>
+               <l>None truly can, from hence we may diſcern,</l>
+               <l>God's Love or Fear by outward Precepts learn.</l>
+               <l>The Scripture is a Record, which doth hold</l>
+               <l>The Story of God's Noble Acts of old:</l>
+               <l>What are we better, if we know no more</l>
+               <l>Than what God did for others heretofore?</l>
+               <l>We may believe 't undoubted Truth: What then?</l>
+               <l>The ſame may be believ'd by wicked Men:</l>
+               <l>Yet they've a ſecret Senſe, which none can find,</l>
+               <l>But ſuch as unto Good are well inclin'd.</l>
+               <l>This Myſt'ry's vail'd in them to all Mens Eyes,</l>
+               <l>Who ſeek not Wiſdom, or doth it deſpiſe.</l>
+               <l>The Hiſtory moſt certain Truth contains,</l>
+               <l>But th' Subſtance in the Myſtery remains;</l>
+               <l>Which as 'tis found, the Scripture's made our own,</l>
+               <l>As in the Fulneſs others have them known.</l>
+               <l>Thus <hi>Egypt</hi>'s King, with the <hi>Egyptian</hi> Land,</l>
+               <l>A Figure of the Evil one doth ſtand,</l>
+               <l>As in the Darkneſs he doth rule the Soul,</l>
+               <l>And by his Power doth poor Man controul:</l>
+               <l>As likewiſe <hi>Iſrael</hi> in their Bondage great</l>
+               <l>A Figure is to th' Soul, which now doth meet</l>
+               <l>With Bondage in the Spirit, and thereby</l>
+               <l>As truly for Deliverance doth cry,</l>
+               <l>As <hi>Iſrael</hi> did to God, who them did hear;</l>
+               <l>And now, as well as then, he doth appear,</l>
+               <pb n="50" facs="tcp:48993:29"/>
+               <l> To quaſh the Devil's Pow'r, and break the Chains</l>
+               <l>Would preſs the Soul int' everlaſting Pains:</l>
+               <l>The Pow'r's the ſame which now the Soul doth ſave,</l>
+               <l>That unto <hi>Iſrael</hi> then Deliverance gave.</l>
+               <l>The Difference is only as apply'd,</l>
+               <l>In th' outward then; but now it muſt be try'd</l>
+               <l>In th' inward Man, where we the Truths behold</l>
+               <l>Which Scriptures do in myſtick Figures fold.</l>
+               <l>Nor is the captivated Soul reſign'd</l>
+               <l>And yielded up by Satan, till he find</l>
+               <l>God by his Judgment hath his Firſt-born ſlain,</l>
+               <l>By him begotten in Man's Heart to reign.</l>
+               <l>When Man at firſt God's righteous Law tranſgreſs'd,</l>
+               <l>He on the Soul his Image then impreſs'd;</l>
+               <l>Which ſlain in us, we do begin to tread</l>
+               <l>The Ways that from his damned Borders lead.</l>
+               <l>But tho' his Firſt-born in us God may kill,</l>
+               <l>Yet he that it begot remaineth ſtill,</l>
+               <l>His Pow'r's not broken ſo, but he'll purſue</l>
+               <l>The Soul to take, its Bondage to renew;</l>
+               <l>As <hi>Phar'oh</hi> with his thund'ring armed Force</l>
+               <l>Purſu'd the <hi>Iſra'lites,</hi> to ſtop their Courſe,</l>
+               <l>So Satan finds the Soul in ſuch a caſe</l>
+               <l>As ſtraitned <hi>Iſrael,</hi> flying from his Face.</l>
+               <l>For tow'ring Rocks are ſeen on either Side,</l>
+               <l>Before's a Sea, devouring, deep, and wide;</l>
+               <l>And the <hi>Egyptian</hi> Hoſt behind doth ſtay,</l>
+               <l>Seeming to wait for nothing but the Day.</l>
+               <l>No leſs than Death does in their Looks appear,</l>
+               <l>Which almoſt kill, as well as puts in fear.</l>
+               <l>Now <hi>Iſrael</hi>'s Straits ſuch come aright to know,</l>
+               <l>And do partake of their Diſtreſs and Woe:</l>
+               <l>If ſuch conſult, they find they muſt account</l>
+               <l>The Danger greater than they can ſurmount.</l>
+               <pb n="51" facs="tcp:48993:29"/>
+               <l> Now 'tis our Duty to ſtand ſtill and wait,</l>
+               <l>To hear what God will ſpeak to diſſipate</l>
+               <l>Our Fears, as <hi>Iſrael</hi> did; and ſo we find</l>
+               <l>Our Angel-guard removed to behind:</l>
+               <l>For he that lately did before us ſtand,</l>
+               <l>Is now betwixt us and this armed Band;</l>
+               <l>To them he's Dark, but unto us a Light,</l>
+               <l>Who keeps them from us in this doleful Night:</l>
+               <l>If this we can but ſee, 't may eaſe us from</l>
+               <l>Our Fears, until the Morning-watch ſhall come.</l>
+               <l>When God commands the Rod to check the Pride</l>
+               <l>Of the inſulting Waves, and them divide,</l>
+               <l>And ſmooth a Paſſage o'er th' untrodden Sand,</l>
+               <l>Fenc'd with prodigious Walls on either Hand:</l>
+               <l>So for our Safety Sea is made dry Land.</l>
+               <l>When thus the Channel of the Deep we find</l>
+               <l>Safe unto us, God fills our joyful Mind</l>
+               <l>With Praiſes great, our Hope encreaſeth more</l>
+               <l>That we ſhall now aſcend the farther Shore;</l>
+               <l>Which when attain'd, and on its Banks we ſtand,</l>
+               <l>And do behold the Sea that God made Land,</l>
+               <l>We ſee the Waters which to us a Wall</l>
+               <l>Of Safety were, upon our Foes doth fall</l>
+               <l>With Fury great; for God doth them deſtroy,</l>
+               <l>And turns our Sorrow into cordial Joy.</l>
+               <l>The Work is true as thus it doth begin;</l>
+               <l>And <hi>Moſes</hi> Song ſuch learn aright to ſing;</l>
+               <l>The Subject is a full Deliv'rance gain'd</l>
+               <l>From all Impediments, that us detain'd</l>
+               <l>When we deſir'd th' <hi>Egyptian</hi> Land to leave,</l>
+               <l>Which we muſt know God granteth, to perceive,</l>
+               <l>Before we can unto him ſacrifice,</l>
+               <l>What he approves as pleaſing in his Eyes.</l>
+               <pb n="52" facs="tcp:48993:30"/>
+               <l> For, as when th' <hi>Iſraelites</hi> in <hi>Egypt</hi> liv'd,</l>
+               <l>With Marble-hearted <hi>Phar'oh</hi>'s Taxes griev'd,</l>
+               <l>They could not ſacrifice; no more can we,</l>
+               <l>Whilſt chained by our Sins in Slavery.</l>
+               <l>The Devil will no more let's worſhip God,</l>
+               <l>Than <hi>Egypt</hi> did, until he feel his Rod;</l>
+               <l>But when deliver'd, like them, we proceed</l>
+               <l>To follow him, as he our Souls ſhall lead.</l>
+               <l>Now do we wait, that we may know aright</l>
+               <l>God, in our Hearts his Mind and Law to write,</l>
+               <l>Which may the Knowledge of his Will aſſord;</l>
+               <l>Thus he becomes our Maſter and our Lord.</l>
+               <l>Now do we wait, that we may truly find</l>
+               <l>His Tabernacle finiſh'd in our Mind,</l>
+               <l>According to the Pattern and Account</l>
+               <l>Which he delivers from his holy Mount.</l>
+               <l>For in the Wilderneſs he doth appear,</l>
+               <l>His Tabernacle of Witneſs to rear</l>
+               <l>Within our Souls, to ſhew us his Intent</l>
+               <l>When we muſt Journey, and when pitch our Tent.</l>
+               <l>Like <hi>Iſrael,</hi> he conducts i' th' Wilderneſs,</l>
+               <l>To fit our Souls the Kingdom to poſſeſs:</l>
+               <l>Yea, in the Wilderneſs he doth us lead,</l>
+               <l>Till all is mortifi'd, worn out, and dead,</l>
+               <l>That is not fit t' enjoy that bleſſed Land,</l>
+               <l>Of which <hi>Canaan</hi> did a Figure ſtand.</l>
+               <l>A Servant-State precedes that of a Son,</l>
+               <l>A Sonſhip muſt be known e'er th' Work be done.</l>
+               <l>The faithful Servant doth his Maſter fear;</l>
+               <l>A Father's Honour doth i' th' Son appear.</l>
+               <l>The Fear i' th' firſt Eſtate precedes the Love,</l>
+               <l>The laſt excludeth Fear, the Scriptures prove.</l>
+               <l>A Son abideth in the Houſe alway,</l>
+               <l>The Servant is but for his Time and Day,</l>
+               <pb n="53" facs="tcp:48993:30"/>
+               <l> And knows not what is by his Maſter ſaid</l>
+               <l>Or acted; whilſt the Son is privy made:</l>
+               <l>For 'tis his Meat to do his Father's Will,</l>
+               <l>And chearfully he doth it all fulfill.</l>
+               <l>A ſecond Reſurrection doth imply</l>
+               <l>A firſt; and ſecond Death doth ſignifie</l>
+               <l>That a firſt Death already's paſſed by.</l>
+               <l>If the firſt Death we do not really find,</l>
+               <l>Until a ſecond ſeizeth on our Mind,</l>
+               <l>Eternal Wrath will come to be our Share;</l>
+               <l>And who can that great Miſery declare?</l>
+               <l>So then we muſt a firſt Death truly know,</l>
+               <l>E'er ſecond come, if we eſcape its Wo.</l>
+               <l>The firſt Death on us by Tranſgreſſion come,</l>
+               <l>And o'er our Minds as yet doth Pow'r aſſume:</l>
+               <l>Whilſt we unto the World are found alive,</l>
+               <l>We're dead to God, and of his Life depriv'd.</l>
+               <l>Chriſt muſt ariſe in us, before that we</l>
+               <l>Can know this Death, or from't deliver'd be.</l>
+               <l>Sin is this Death; and whilſt its Pow'rs abide</l>
+               <l>Unbroke in us, Chriſt is as crucifi'd</l>
+               <l>To us; but if he riſe, he doth bequeath</l>
+               <l>That Life whereby we apprehend this Death:</l>
+               <l>We know it thus, and as we do partake</l>
+               <l>Of this firſt Reſurrection, and do make</l>
+               <l>Our Part in it aſſur'd, we live thereby</l>
+               <l>That Death to know which is in Chriſt to die:</l>
+               <l>Nor can we know it, till we underſtand</l>
+               <l>The Work is finiſh'd, which he did command.</l>
+               <l>A ſecond Death we may this Death expreſs,</l>
+               <l>The firſt to Sin, this to our Righteouſneſs:</l>
+               <l>This is the Saints Death, precious in God's Eyes,</l>
+               <l>Accepted as their ſweeteſt Sacrifice;</l>
+               <pb n="54" facs="tcp:48993:31"/>
+               <l> And 'tis their Gain, for now to God they live,</l>
+               <l>And more they die, more Life they do receive.</l>
+               <l>Chriſt made us live, and we did Sin refrain;</l>
+               <l>But through this Death he cometh to be ſlain</l>
+               <l>In us that has the Pow'r of Death, the Devil,</l>
+               <l>In what he works like Good, as well as Evil.</l>
+               <l>This Death is that th' Apoſtle did profeſs</l>
+               <l>His Longing for with ſo great Earneſtneſs:</l>
+               <l>For unto all Self-righteouſneſs he dy'd,</l>
+               <l>That he might know Chriſt, and him crucify'd.</l>
+               <l>He firſt makes mention of his Reſurrection,</l>
+               <l>Next, of his Fellowſhip, with his Affection;</l>
+               <l>And laſtly, of a true Conformity</l>
+               <l>Unto his Death, which he deſir'd to ſee:</l>
+               <l>This laſt he did deſire, we plainly read,</l>
+               <l>T'attain the Reſurrection of the Dead.</l>
+               <l>Much of theſe glorious Truths here might we write;</l>
+               <l>But if we would obtain a clearer Sight,</l>
+               <l>We muſt our ſelves in Seeking then delight.</l>
+               <l>For when all's utter'd that can be declar'd,</l>
+               <l>Or ſpoken of, that can be read or heard;</l>
+               <l>Theſe Truths are Myſt'ries ſtill unto that Mind</l>
+               <l>That does not them ſincerely ſeek to find:</l>
+               <l>For ſuch, another never can them know;</l>
+               <l>The uſe of Words is to direct unto</l>
+               <l>The Truth in us, to find out ev'ry State</l>
+               <l>Which unto us the Scripture doth relate;</l>
+               <l>They are not diſtant from us, they are near,</l>
+               <l>If we could know the Truth of what we hear.</l>
+               <l>For God's the Subſtance of each Myſtery,</l>
+               <l>And unto ev'ry Soul he's always nigh;</l>
+               <l>He ſills all Things, and doth in all remain;</l>
+               <l>The Heaven of Heavens cannot him contain;</l>
+               <pb n="55" facs="tcp:48993:31"/>
+               <l> He's nearer us than our moſt ſecret Thought.</l>
+               <l>If this we knew, or were it truly taught,</l>
+               <l>Our Apprehenſions would not be abroad</l>
+               <l>At ſome far diſtant Place to ſeek our God.</l>
+               <l>For whilſt ſuch Notions prepoſſeſs our Mind,</l>
+               <l>The Truth of Godlineſs we cannot find.</l>
+               <l>Chriſt alſo doth near ev'ry Soul abide,</l>
+               <l>Being with the Father in ſtrict Union ty'd.</l>
+               <l>The Holy Spirit, which doth ſtill proceed</l>
+               <l>From th' Father and the Son, as we may read</l>
+               <l>In Scripture teſtify'd, is alſo near,</l>
+               <l>If we look for him where he doth appear,</l>
+               <l>That Chriſt may formed be within our Heart,</l>
+               <l>Before he will the Myſtery impart.</l>
+               <l>But unto whom do theſe great Truths belong?</l>
+               <l>Not to the wiſe, the rich, the high, or ſtrong</l>
+               <l>In their own Eyes; in this they have no Share,</l>
+               <l>But with their Skill and Art excluded are:</l>
+               <l>But unto ſuch as low and needy be,</l>
+               <l>In ev'ry Age the Goſpel has been free:</l>
+               <l>It was to ſuch <hi>Iſaiah</hi> did proclaim</l>
+               <l>The Goſpel-Riches in the Father's Name;</l>
+               <l>
+                  <hi>O every one that hungry is</hi> (he cries)</l>
+               <l>
+                  <hi>Or thirſty, let him come, and without Price</hi>
+               </l>
+               <l>
+                  <hi>Buy Milk and Wine.</hi> Thus God the Poor ſupplies.</l>
+               <l>But he that hath a Price for't to be told,</l>
+               <l>Riches of Grace he never did behold;</l>
+               <l>For if 't can purchas'd be in any Caſe</l>
+               <l>By what's our own, it cannot then be Grace.</l>
+               <l>For Grace, as it is Free, belongs to none</l>
+               <l>But thoſe in miſery and Want alone:</l>
+               <l>Such then it was that Chriſt our Saviour ſought,</l>
+               <l>When on an high Feaſt-day he thus cry'd out,</l>
+               <pb n="56" facs="tcp:48993:32"/>
+               <l> 
+                  <hi>Let him that thirſty is, come unto me,</hi>
+               </l>
+               <l>
+                  <hi>That he may drink Lifes Water, which is free.</hi>
+               </l>
+               <l>And theſe his gracious Words may be apply'd</l>
+               <l>To all Mankind that ſhould in him confide:</l>
+               <l>The Time approach'd, that ſuch ſhould truly know</l>
+               <l>
+                  <hi>Out of their Bellies living Waters flow:</hi>
+               </l>
+               <l>
+                  <hi>And this was ſaid touching the Holy Spirit,</hi>
+               </l>
+               <l>
+                  <hi>Which every true Believer ſhould inherit.</hi>
+               </l>
+               <l>This to reveal, he then both came and dy'd,</l>
+               <l>But was not known till he was glorify'd.</l>
+               <l>None in this holy Path, he came to ſhew,</l>
+               <l>Can walk, but ſuch as are upright and true.</l>
+               <l>All Forms without us are, but this within,</l>
+               <l>By which he doth deſtroy the Root of Sin.</l>
+               <l>This is the Way which all that do believe</l>
+               <l>In Chriſt, ſhould wait aſſur'dly to receive.</l>
+               <l>This Way he did before his Follow'rs ly,</l>
+               <l>It was to wait for Power from on high,</l>
+               <l>That perfect Gift, that cometh from above,</l>
+               <l>From God, who in the Heart doth ſhed his Love.</l>
+               <l>This Way he did before all Ways prefer,</l>
+               <l>To be enjoin'd on each Particuler.</l>
+               <l>For tho' he did that Heavenly Wiſdom preach,</l>
+               <l>And taught them as no other Man could teach;</l>
+               <l>Yet unto them he plainly did declare</l>
+               <l>He'ad much to ſay, which yet they could not bear;</l>
+               <l>Nor could they bear't, if he ſhould bodily</l>
+               <l>With them remain: Therefore 'twas needful he</l>
+               <l>Should in the Fleſh depart, that they might know</l>
+               <l>The Truth of what he came to ſay and do.</l>
+               <l>
+                  <hi>I'll pray</hi> (ſaid he) <hi>the Father, and he'll give</hi>
+               </l>
+               <l>
+                  <hi>Another Comforter with you to live,</hi>
+               </l>
+               <l>
+                  <hi>And he continually with you ſhall ſtay,</hi>
+               </l>
+               <l>
+                  <hi>And never more removed be away.</hi>
+               </l>
+               <pb n="57" facs="tcp:48993:32"/>
+               <l> 
+                  <hi>The Spir<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t of Truth out of the World is thruſt,</hi>
+               </l>
+               <l>
+                  <hi>Becauſe they ſee him not, nor in him truſt:</hi>
+               </l>
+               <l>
+                  <hi>But you him know, and ſhall hereafter find</hi>
+               </l>
+               <l>
+                  <hi>Him that is with you dwelling in your Mind.</hi>
+               </l>
+               <l>
+                  <hi>Then unto your Remembrance he will bring</hi>
+               </l>
+               <l>
+                  <hi>What I have told you as to ev'ry thing.</hi>
+               </l>
+               <l>
+                  <hi>When he is come, I tell you what is true,</hi>
+               </l>
+               <l>
+                  <hi>He'll t<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ke of mine, and ſhew it unto you.</hi>
+               </l>
+               <l>
+                  <hi>All's nine the Father hath, you may believe;</hi>
+               </l>
+               <l>
+                  <hi>Therefore</hi> (I ſaid) <hi>he'll take of mine and give</hi>
+               </l>
+               <l>
+                  <hi>To you. Yet a ſhort while, and th' World no more</hi>
+               </l>
+               <l>
+                  <hi>Shall ſee me, as they have done heretofore:</hi>
+               </l>
+               <l>
+                  <hi>B<gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t you ſhall ſee me, and you then ſhall know,</hi>
+               </l>
+               <l>
+                  <hi>Becauſe I live, that you ſhall live alſo.</hi>
+               </l>
+               <l>
+                  <hi>That day you'll know, I in the Father be,</hi>
+               </l>
+               <l>
+                  <hi>In you alſo, and you ſhall be in me.</hi>
+               </l>
+               <l>
+                  <hi>Go ſearch the Scriptures, and you ſhall not find</hi>
+               </l>
+               <l>
+                  <hi>Another Method to perfect the Mind.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
